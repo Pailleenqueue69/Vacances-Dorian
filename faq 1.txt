@@ -1,0 +1,396 @@
+﻿Vidéo 1
+[NaN:NaN] [Musique]
+[NaN:NaN] bonjour à tous chers alchimistes
+[NaN:NaN] bienvenue pour cette première foire à
+[NaN:NaN] question sur l'élixir d'or alors non je
+[NaN:NaN] ne suis pas le compte de Saint-Germain
+[NaN:NaN] je serai son humble intermédiaire sur
+[NaN:NaN] terre mais pour l'occasion évidemment je
+[NaN:NaN] me suis habillé au 18e siècle déjà pour
+[NaN:NaN] vous plonger dans l'univers et puis
+[NaN:NaN] évidemment parce que je suis dans mon
+[NaN:NaN] élément et je vais pouvoir vous répondre
+[NaN:NaN] comme ça en toute décontraction alors
+[NaN:NaN] déjà merci beaucoup pour l'intérêt que
+[NaN:NaN] vous portez au jeu pour la communauté
+[NaN:NaN] bienveillante qui s'est structuré que
+[NaN:NaN] c'est vénéré à la fois sur le serveur
+[NaN:NaN] discord que je vous invite à rejoindre
+[NaN:NaN] si vous n'y êtes pas encore mais aussi
+[NaN:NaN] ailleurs sur d'autres blocs de chasse au
+[NaN:NaN] trésor sur Outils à Forza sur Youtube et
+[NaN:NaN] ailleurs
+[NaN:NaN] nous on est très heureux avec tout
+[NaN:NaN] l'équipe de pouvoir proposer enfin ce
+[NaN:NaN] jeu qui nous a pris plus d'un an à
+[NaN:NaN] développer plus d'un an pour convaincre
+[NaN:NaN] 43 domaines viticoles le château de
+[NaN:NaN] Vaux-le-Vicomte le Petit Futé plein
+[NaN:NaN] d'autres partenaires à rejoindre le
+[NaN:NaN] projet puisqu'on partait vraiment de
+[NaN:NaN] rien et rien que pour ça va ça nous fait
+[NaN:NaN] évidemment chaud au cœur de voir déjà
+[NaN:NaN] environ 6 à 7000 joueurs partout en
+[NaN:NaN] France qui sont à la recherche de
+[NaN:NaN] l'élixir d'or et ce nombre va grossir
+[NaN:NaN] puisque dès le mois de juin les versions
+[NaN:NaN] anglaises les versions espagnoles vont
+[NaN:NaN] être lancés puis ensuite suivront les
+[NaN:NaN] versions allemandes italiennes et
+[NaN:NaN] japonaise et mandarines alors évidemment
+[NaN:NaN] pas trop tard pour les nouveaux
+[NaN:NaN] chercheurs ou pour ceux dont c'est la
+[NaN:NaN] première chasse au trésor pour
+[NaN:NaN] participer puisque évidemment même si
+[NaN:NaN] vous commencez avec un peu de retard
+[NaN:NaN] c'est un jeu qui peut durer certes
+[NaN:NaN] peut-être quelques mois mais aussi
+[NaN:NaN] plusieurs années la temporalité du jeu
+[NaN:NaN] revient d'ailleurs souvent dans vos
+[NaN:NaN] questions auxquelles on va répondre mais
+[NaN:NaN] même si vous reprenez en cours de route
+[NaN:NaN] vous pouvez aussi profiter des éléments
+[NaN:NaN] qui ont déjà été trouvés par d'autres
+[NaN:NaN] joueurs donc tant que le coffre n'est
+[NaN:NaN] pas déterré il n'est jamais trop tard
+[NaN:NaN] pour pour commencer à jouer j'ai une
+[NaN:NaN] pensée particulière évidemment pour les
+[NaN:NaN] personnes à qui c'est la première chasse
+[NaN:NaN] aux trésorielle participent donc
+[NaN:NaN] j'invite tous les expérimenter les
+[NaN:NaN] chevronnés à les accueillir avec
+[NaN:NaN] beaucoup de bienveillance également
+[NaN:NaN] c'est aussi pour ça qu'on a choisi le
+[NaN:NaN] thème du vin parce que c'est un thème
+[NaN:NaN] qui nous semblait fédérateur parce que
+[NaN:NaN] c'est un thème qui est extrêmement ancré
+[NaN:NaN] dans notre culture du partage de
+[NaN:NaN] l'accueil du banquet évidemment c'est
+[NaN:NaN] dans cet esprit qu'on a conçu le jeu
+[NaN:NaN] alors pour cette première FAQ il y a 50
+[NaN:NaN] questions je vais essayer de répondre au
+[NaN:NaN] maximum d'entre elles et certaines
+[NaN:NaN] questions qui sont un peu trop précises
+[NaN:NaN] à ce stade du jeu notamment tant que les
+[NaN:NaN] joueurs étrangers ne sont pas ne font
+[NaN:NaN] pas partie de l'aventure je pourrai pas
+[NaN:NaN] encore y répondre mais globalement
+[NaN:NaN] l'ensemble des questions trouveront une
+[NaN:NaN] réponse directement aujourd'hui et puis
+[NaN:NaN] bah sinon bah écoutez je vais
+[NaN:NaN] directement traiter les questions thèmes
+[NaN:NaN] par thème alors j'ai retenu cinq thèmes
+[NaN:NaN] pour cette première FAQ en fonction des
+[NaN:NaN] questions que vous m'avez posé il y
+[NaN:NaN] avait le thème sur la fin du jeu et
+[NaN:NaN] globalement sur le jeu ce qui entoure le
+[NaN:NaN] jeu mais pas le jeu en lui-même des
+[NaN:NaN] questions d'ordre pratique quel logiciel
+[NaN:NaN] quel support utiliser pour chercher
+[NaN:NaN] efficacement il y a des questions sur
+[NaN:NaN] les visuels des questions sur les textes
+[NaN:NaN] qui accompagnent les visuels et puis des
+[NaN:NaN] questions sur les traductions sur le
+[NaN:NaN] règlement le chasseur petites découvrir
+[NaN:NaN] le trésor bien que toutes ces solutions
+[NaN:NaN] ne soient pas 100% exactes et qu'il a
+[NaN:NaN] fait preuve de bonne foi oui tout à fait
+[NaN:NaN] il y aura une présomption de victoire de
+[NaN:NaN] failles il faut avoir les solutions 100%
+[NaN:NaN] correct pour pouvoir avoir une chance de
+[NaN:NaN] trouver le coffre et donc soit la
+[NaN:NaN] personne a le cheminement 100% Corée
+[NaN:NaN] dans ce cas il y a aucun problème elle
+[NaN:NaN] arrivera à votre vie compte soit elle
+[NaN:NaN] n'est pas capable de l'expliquer dans ce
+[NaN:NaN] cas il peut y avoir en effet une
+[NaN:NaN] suspicion qu'elle l'aurait volé un autre
+[NaN:NaN] joueur monsieur cas de figure est
+[NaN:NaN] vraiment extrême je pense pas du tout
+[NaN:NaN] qu'il se produira à quelle profondeur
+[NaN:NaN] est enterré le trésor il est en terrain
+[NaN:NaN] environ à 60 cm de profondeur
+[NaN:NaN] le trésor est caché en France mais rien
+[NaN:NaN] ne nous empêche de faire des incursions
+[NaN:NaN] à l'étranger tout à fait le trésor le
+[NaN:NaN] coffre est enterré en France mais le
+[NaN:NaN] terrain de jeu est mondial donc vos
+[NaN:NaN] recherches peuvent vous amener sur
+[NaN:NaN] l'ensemble des continents de la planète
+[NaN:NaN] alors est-ce que les boucles sont utiles
+[NaN:NaN] les boucles ne contiennent pas d'indice
+[NaN:NaN] les ebooks sont surtout là pour vous
+[NaN:NaN] aider à vous plonger dans l'univers à
+[NaN:NaN] rendre votre expérience encore plus
+[NaN:NaN] immersive et vous donner un peu de de
+[NaN:NaN] fait sur l'histoire du vent en France
+[NaN:NaN] sur les trésors célèbres et sur le
+[NaN:NaN] compte de Saint-Germain mais il ne
+[NaN:NaN] contiennent pas d'indice alors la durée
+[NaN:NaN] du jeu combien de temps va durer la
+[NaN:NaN] chasse extrêmement compliquée à estimer
+[NaN:NaN] puisqu'il y a plein de facteurs à
+[NaN:NaN] quantifiables qui vous rentrez en compte
+[NaN:NaN] nos estimations notre calibrage
+[NaN:NaN] fixerait la durée du jeu entre 6 mois
+[NaN:NaN] minimum et la durée maximale qu'on a
+[NaN:NaN] fixée dans le règlement à 5 ans et
+[NaN:NaN] j'enchaîne sur une question qui vient
+[NaN:NaN] après qu'est-ce qui se passe au bout de
+[NaN:NaN] cinq ans si personne n'a trouvé il y a
+[NaN:NaN] plusieurs options et c'est vous qui
+[NaN:NaN] qu'aurait le dernier mot puisque c'est
+[NaN:NaN] vous qu'on sollicitera pour savoir
+[NaN:NaN] quelle est l'option que vous préférez la
+[NaN:NaN] première c'est peut-être de prolonger le
+[NaN:NaN] jeu un ou deux ans si vous pensez être
+[NaN:NaN] proche du coffre la seconde c'est
+[NaN:NaN] d'arrêter le jeu et de lancer une
+[NaN:NaN] nouvelle chasse au trésor avec le lot
+[NaN:NaN] remis en jeu auquel vous pourrez
+[NaN:NaN] participer à laquelle vous pourrez
+[NaN:NaN] participer intégralement gratuitement si
+[NaN:NaN] vous aurez déjà entre guillemets payer
+[NaN:NaN] un ticket d'entrée pour participer à
+[NaN:NaN] l'extérieur la troisième c'est de mettre
+[NaN:NaN] en vente le lot aux enchères et de
+[NaN:NaN] distribuer le produit de la vente à des
+[NaN:NaN] associations et la quatrième c'est
+[NaN:NaN] option évidemment qu'il y a ma
+[NaN:NaN] préférence ce serait d'organiser un
+[NaN:NaN] immense banquet avec les joueurs venus
+[NaN:NaN] du monde entier et tous les partenaires
+[NaN:NaN] viticoles pour célébrer le jeu et
+[NaN:NaN] dévoiler les solutions à ce moment-là
+[NaN:NaN] alors je vais passer aux questions
+[NaN:NaN] pratiques qui quasiment toutes traitait
+[NaN:NaN] de Google Maps et de façon générale des
+[NaN:NaN] logiciels là-dessus il me semble que le
+[NaN:NaN] parchemin est extrêmement clair sur
+[NaN:NaN] l'indication qui va vous permettre de
+[NaN:NaN] faire vos calculs vos éventuels tracés
+[NaN:NaN] divers donc je vais pas pouvoir être
+[NaN:NaN] plus précis que le un chemin ne l'est il
+[NaN:NaN] y a tout de même une autre question à
+[NaN:NaN] part Google Maps qui concerne
+[NaN:NaN] l'introduction d'un salon INRI de façon
+[NaN:NaN] générale y a-t-il des indices dans le
+[NaN:NaN] testament dans INRI dans le poème or
+[NaN:NaN] c'est extrêmement clair tout ce qui va
+[NaN:NaN] concerner les textes écrits testament
+[NaN:NaN] poèmes texte des énigmes de 1 à 6 fin du
+[NaN:NaN] jeu etc plus les visuels tout peut ou ne
+[NaN:NaN] pas être
+[NaN:NaN] utile tout ce qui va considérer par
+[NaN:NaN] contre les mentions les gars ou la liste
+[NaN:NaN] des partenaires ou un peu ce qui entoure
+[NaN:NaN] le jeu évidemment ce sont des mentions
+[NaN:NaN] qu'on met pour le jeu mais qui ne vont
+[NaN:NaN] pas contenir d'indice j'en viens à un
+[NaN:NaN] autre sujet qui a été la temporalité du
+[NaN:NaN] jeu plusieurs fois j'ai noté trois
+[NaN:NaN] questions à savoir est-ce que toutes les
+[NaN:NaN] recherches doivent se focaliser avant
+[NaN:NaN] 1784 où est-ce que il peut y avoir des
+[NaN:NaN] sauts temporels des sauts dans le temps
+[NaN:NaN] alors là pareil je vais pas pouvoir vous
+[NaN:NaN] répondre car cela impliquerait de bien
+[NaN:NaN] comprendre quel est le rapport au temps
+[NaN:NaN] du compte de Saint-Germain et ça à ce
+[NaN:NaN] stade du jeu c'est encore à vous de le
+[NaN:NaN] comprendre parfaitement alors ensuite
+[NaN:NaN] les questions sur les visuels beaucoup
+[NaN:NaN] de personnes se sont demandées s'il y
+[NaN:NaN] avait une erreur sur le visuel de
+[NaN:NaN] l'échiquier
+[NaN:NaN] par rapport à la case en bas à gauche
+[NaN:NaN] et à la reine et au roi qui serait
+[NaN:NaN] interverti je dirais que si le compte
+[NaN:NaN] devait repeindre ce tableau il le ferait
+[NaN:NaN] strictement à l'identique et que de
+[NaN:NaN] façon générale les chéquiers
+[NaN:NaN] entre guillemets n'est pas
+[NaN:NaN] conventionnelle et il est possible que
+[NaN:NaN] le compte joue à ses propres règles il y
+[NaN:NaN] avait d'ailleurs une autre pièce sur une
+[NaN:NaN] potentielle erreur dans l'énigme une au
+[NaN:NaN] sixième élément pareil le compte de s'il
+[NaN:NaN] devait réécrire et d'ailleurs c'est ce
+[NaN:NaN] qui fait pour les traductions dans les
+[NaN:NaN] ciseaux blancs il la réécrirait
+[NaN:NaN] strictement à l'identique il y a une
+[NaN:NaN] question sur la dissociation des énigmes
+[NaN:NaN] par illustration en créant un salon par
+[NaN:NaN] énigme et un Paris illustration plutôt
+[NaN:NaN] qu'à salon énigme illustration alors le
+[NaN:NaN] discord et son arrangement il vous
+[NaN:NaN] appartient c'est à dire que si vous
+[NaN:NaN] voulez en changer la structure les
+[NaN:NaN] modalités évidemment le discord il est
+[NaN:NaN] là pour vous donc nous on se pliera à ce
+[NaN:NaN] que vous souhaitez comme nouvelle forme
+[NaN:NaN] de discord donc il faut rajouter un
+[NaN:NaN] salon INRI ou changer un peu
+[NaN:NaN] l'arrangement du discord c'est propre à
+[NaN:NaN] vos convictions propres à vos théories
+[NaN:NaN] donc là-dessus on sera pas forcément
+[NaN:NaN] guide mais plutôt suiveur deux questions
+[NaN:NaN] se penchent sur l'utilisation des
+[NaN:NaN] visuels dans une ou plusieurs énigmes et
+[NaN:NaN] savoir s'il y a des éléments dans les
+[NaN:NaN] visuels qui sont pas forcément utiles
+[NaN:NaN] qui seraient juste de la décoration
+[NaN:NaN] alors sur la première question pareil à
+[NaN:NaN] ce stade du jeu c'est la bien vous de
+[NaN:NaN] comprendre la mécanique de l'ensemble du
+[NaN:NaN] jeu comment fonctionne les énigmes
+[NaN:NaN] comment elle s'embryque éventuellement
+[NaN:NaN] est-ce que les visuels sont autonomes
+[NaN:NaN] est-ce que les visuels sont à relier une
+[NaN:NaN] un par un avec un texte des énigmes ça
+[NaN:NaN] je pourrais pas donner plus de précision
+[NaN:NaN] aujourd'hui et concernant des éléments
+[NaN:NaN] de décoration oui je vous confirme que
+[NaN:NaN] tout dans les visuels n'est pas
+[NaN:NaN] forcément complètement utile au jeu et
+[NaN:NaN] donc c'est à vous aussi de discerner ce
+[NaN:NaN] qui va vraiment vous servir à la
+[NaN:NaN] résolution du jeu est-ce que vous allez
+[NaN:NaN] devoir mettre de côté les visuels ils
+[NaN:NaN] ont été rédigés par Mathilde Leroy qui
+[NaN:NaN] ne connaît pas la solution qui
+[NaN:NaN] n'illustre parisienne de talents et qui
+[NaN:NaN] a reçu un cahier des charges de la part
+[NaN:NaN] du compte de Saint-Germain pour pouvoir
+[NaN:NaN] réaliser les six illustrations alors
+[NaN:NaN] ensuite sur les traductions j'ai trois
+[NaN:NaN] questions
+[NaN:NaN] la première les futurs acheteurs
+[NaN:NaN] étrangers vont payer pour partir avec un
+[NaN:NaN] mois de retard ou plus avec les mêmes
+[NaN:NaN] chances alors je lui en serait cela par
+[NaN:NaN] le fait que certes il commence avec un
+[NaN:NaN] peu de retard mais ils vont aussi avoir
+[NaN:NaN] accès avec à tous les solutions à tous
+[NaN:NaN] les partages de théorie que vous aurez
+[NaN:NaN] pu faire à ce stade du jeu en sachant
+[NaN:NaN] que des chasses au trésor précédentes
+[NaN:NaN] ont montré que des joueurs qui n'avaient
+[NaN:NaN] pas forcément commencé au début parfois
+[NaN:NaN] plusieurs années après le début du jeu
+[NaN:NaN] ont quand même pu remporter de la chasse
+[NaN:NaN] au présent c'était le cas notamment aux
+[NaN:NaN] États-Unis du trésor de Forrest Fanny la
+[NaN:NaN] deuxième question c'est la disponibilité
+[NaN:NaN] des versions étrangères sans devoir
+[NaN:NaN] racheter évidemment un parchemin par
+[NaN:NaN] l'angle il y a deux éléments de réponse
+[NaN:NaN] à cela le premier c'est qu'on va mettre
+[NaN:NaN] en place une version multilingue pour
+[NaN:NaN] justement éviter que des questions
+[NaN:NaN] financières créées de
+[NaN:NaN] créer de la disparité créée un problème
+[NaN:NaN] une concurrence déloyale entre les
+[NaN:NaN] joueurs et la seconde c'est vraiment un
+[NaN:NaN] avertissement c'est que le fait de
+[NaN:NaN] posséder les versions étrangères ne vous
+[NaN:NaN] donne pas d'indice et ne va pas vous
+[NaN:NaN] aider ça c'est quelque chose que je peux
+[NaN:NaN] vous dire dès aujourd'hui et la
+[NaN:NaN] troisième question c'est un moldavre ou
+[NaN:NaN] un chien ont-ils autant de chances de
+[NaN:NaN] résoudre la chasse qu'un Français oui la
+[NaN:NaN] difficulté le calibrage du jeu est
+[NaN:NaN] strictement le même quel que soit les
+[NaN:NaN] versions linguistiques il y aura
+[NaN:NaN] évidemment pas toutes les langues
+[NaN:NaN] disponibles donc je ne sais pas quelle
+[NaN:NaN] langue il parle en Moldavie mais si
+[NaN:NaN] c'est le moldave ou une langue des
+[NaN:NaN] Balkans malheureusement il faudra que
+[NaN:NaN] cette personne soit anglophone mais à
+[NaN:NaN] part ça par les barrières de la langue
+[NaN:NaN] le jeu sera quand même disponible au
+[NaN:NaN] moins en 6-7 langues donc ça devrait
+[NaN:NaN] permettre à l'ensemble de l'humanité
+[NaN:NaN] globalement de pouvoir y jouer alors
+[NaN:NaN] janvier aux questions sur les énigmes
+[NaN:NaN] c'est peut-être là où je vais pouvoir
+[NaN:NaN] répondre à moins de questions que
+[NaN:NaN] beaucoup de questions sont un peu trop
+[NaN:NaN] précises vont concerner les éléments de
+[NaN:NaN] mesure vont concerner des points très
+[NaN:NaN] précis du jeu
+[NaN:NaN] donc j'en ai sélectionné quelques-unes
+[NaN:NaN] auxquelles je pourrais répondre à
+[NaN:NaN] l'avenir
+[NaN:NaN] essayer d'avoir des réponses à des
+[NaN:NaN] questions auxquelles je puisse répondre
+[NaN:NaN] alors il y a une question sur les
+[NaN:NaN] éléments de référence choisis pour achat
+[NaN:NaN] ce qu'ils peuvent être qualifiés de
+[NaN:NaN] pérenne oui tout à fait on sait pas
+[NaN:NaN] projeté à plus de 5 ans mais vous pouvez
+[NaN:NaN] considérer que dans 5 ans les éléments
+[NaN:NaN] qu'on a choisi pour le jeu seront
+[NaN:NaN] strictement
+[NaN:NaN] identiques à aujourd'hui une question
+[NaN:NaN] également sur un élément typographique
+[NaN:NaN] dans l'une des phrases de l'énigme 3 qui
+[NaN:NaN] permettrait de mieux comprendre quelque
+[NaN:NaN] chose de précis est-ce qu'il y a un
+[NaN:NaN] élément manquant la réponse est non
+[NaN:NaN] est-ce qu'on peut jeter le carton qui
+[NaN:NaN] contenait la carte je sais que certains
+[NaN:NaN] jeux d'énigmes dans certains jeux des
+[NaN:NaN] lignes la boîte à part fois son
+[NaN:NaN] importance vous pouvez le jeter
+[NaN:NaN] pensez bien au recyclage mais de façon
+[NaN:NaN] générale vous pouvez le jeter il ne
+[NaN:NaN] contient aucun indice tout simplement
+[NaN:NaN] puisque certains joueurs n'ont pas cette
+[NaN:NaN] boîte puisqu'ils ont acheté la version
+[NaN:NaN] dématérialisés sommes-nous d'accord que
+[NaN:NaN] chaque énigme ou chaque visuel nous
+[NaN:NaN] parle de 20 vignobles
+[NaN:NaN] œnologies en plus du reste pas forcément
+[NaN:NaN] c'est le thème central du jeu mais c'est
+[NaN:NaN] à vous de comprendre à quel stade du jeu
+[NaN:NaN] le thème du vin va être important pour
+[NaN:NaN] pouvoir résoudre ensuite on a des
+[NaN:NaN] questions sur les anagrammes sur une
+[NaN:NaN] potentielle présence de reliquat tu vois
+[NaN:NaN] qu'il y a des chouetteurs qui ont
+[NaN:NaN] évidemment rejoint le jeu il y a des
+[NaN:NaN] questions sur la grappe de raisin il y a
+[NaN:NaN] des questions sur les unités de distance
+[NaN:NaN] là-dessus évidemment vous comprenez que
+[NaN:NaN] je peux pas encore répondre en détail
+[NaN:NaN] assez partie là du jeu je vous laisse
+[NaN:NaN] vraiment profiter de ce début de jeu
+[NaN:NaN] pour explorer tous les pistes que vous
+[NaN:NaN] pourriez avoir de façon libre sans que
+[NaN:NaN] je puisse vous donner des éléments
+[NaN:NaN] contradictoires ou forcément ça pourra
+[NaN:NaN] arriver un jour à profiter de ce stade
+[NaN:NaN] du jeu où il y a encore très peu
+[NaN:NaN] d'informations qui ont été données par
+[NaN:NaN] l'équipe de l'organisateur pour pouvoir
+[NaN:NaN] vous faire plaisir tout simplement on va
+[NaN:NaN] finirais sur une dernière question qui
+[NaN:NaN] est un peu inclassable doit-on
+[NaN:NaN] considérer que tant que nous ne
+[NaN:NaN] disposons pas des récompenses alcoolisés
+[NaN:NaN] nous devons est le plus sobre possible
+[NaN:NaN] dans nos résolutions alors ça double
+[NaN:NaN] tranchant évidemment le fait de rester
+[NaN:NaN] soft va vous permettre d'avoir une
+[NaN:NaN] meilleure rationalité mais à l'inverse
+[NaN:NaN] si vous décidez de d'aborder le jeu de
+[NaN:NaN] façon un peu plus jovial ça peut être ça
+[NaN:NaN] va peut-être vous permettre d'explorer
+[NaN:NaN] des pistes vous auriez pas forcément
+[NaN:NaN] explorer à la rationalité pure donc
+[NaN:NaN] chacun ses méthodes
+[NaN:NaN] [Musique]
+

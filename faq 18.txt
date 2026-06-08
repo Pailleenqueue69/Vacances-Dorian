@@ -1,0 +1,2450 @@
+﻿Vidéo 18
+[NaN:NaN] Bonsoir à tous. Est-ce que vous
+[NaN:NaN] m'entendez bien ? Super. Ben, j'espère
+[NaN:NaN] que vous allez tous bien. Je me mets en
+[NaN:NaN] plein écran. Oui, top. Euh, bonsoir à
+[NaN:NaN] tous. J'ai l'impression qu'on commence à
+[NaN:NaN] être un peu au complet. Euh,
+[NaN:NaN] OK. Bon, je vais commencer. Bah, du
+[NaN:NaN] coup, merci déjà d'être là ce soir euh
+[NaN:NaN] pour cette FAQ numéro 18 de l'élixir
+[NaN:NaN] d'or. Euh bienvenue aux nouveaux euh qui
+[NaN:NaN] sont qui sont parmi nous. Euh bah comme
+[NaN:NaN] d'habitude, je vais répondre à toutes
+[NaN:NaN] les questions qui ont été posées par
+[NaN:NaN] écrit puis ensuite il y aura un temps
+[NaN:NaN] d'échange. Al il y a eu beaucoup de
+[NaN:NaN] questions qui ont été posées. Donc j'ai
+[NaN:NaN] décaler d'une demi-heure la la FAQ pour
+[NaN:NaN] le Nagador pour pouvoir vraiment avoir
+[NaN:NaN] le temps de répondre à tout. Et juste
+[NaN:NaN] avant ça, en préambule, je vais euh vous
+[NaN:NaN] tirer les conclusions du
+[NaN:NaN] progressivomètre
+[NaN:NaN] qui a été réalisé pour les 21 mois de
+[NaN:NaN] l'élixir d'or puisqu'on fait désormais
+[NaN:NaN] le 2e anniversaire du jeu. et je vous ai
+[NaN:NaN] fait parvenir un sondage il y a 2 mois,
+[NaN:NaN] je crois un peu plus de 2 mois sur
+[NaN:NaN] lequel ben j'ai eu pas mal de réponses
+[NaN:NaN] plus toutes les personnes qui m'ont
+[NaN:NaN] envoyé leur cheminement par email à
+[NaN:NaN] l'adresse validation. Alors je ne je ne
+[NaN:NaN] peux plus répondre de façon
+[NaN:NaN] personnalisée à tout le monde. J'ai eu
+[NaN:NaN] pas mal de fois des personnes qui me
+[NaN:NaN] demandaient si j'avais bien lu, bien
+[NaN:NaN] pris connaissance de leur solution. La
+[NaN:NaN] réponse est oui. Je lis tout ce que vous
+[NaN:NaN] m'envoyez. simplement je ne peux pas
+[NaN:NaN] répondre malheureusement à tout le
+[NaN:NaN] monde. Euh donc voilà. Alors donc je
+[NaN:NaN] vous avais posé plusieurs questions pour
+[NaN:NaN] euh pour le sondage et comme à comme à
+[NaN:NaN] mon habitude euh j'ai une liste de tous
+[NaN:NaN] les éléments qui euh qu'il y a à trouver
+[NaN:NaN] sur la chasse au trésor et euh je peux
+[NaN:NaN] donc euh trouver un pourcentage
+[NaN:NaN] d'avancorement de toute la communauté et
+[NaN:NaN] ensuite regarder joueur par joueur où
+[NaN:NaN] vous en êtes. Je m'attarde notamment sur
+[NaN:NaN] les joueurs les plus avancés, les
+[NaN:NaN] joueuses, les joueurs, les équipes les
+[NaN:NaN] plus avancées pour pouvoir savoir qui a
+[NaN:NaN] le lead et à quel pourcentage. Alors ce
+[NaN:NaN] qui ressort de ce sondage, c'est que les
+[NaN:NaN] éléments qui vous bloquent pour
+[NaN:NaN] l'instant le plus dans la façon de les
+[NaN:NaN] comprendre, c'est le calcul de l'énigme
+[NaN:NaN] 5 253 548,
+[NaN:NaN] les chiquers et les éléments en rouge.
+[NaN:NaN] ce que j'ai c'est ce que c'est ce qui
+[NaN:NaN] revient le plus souvent dans les
+[NaN:NaN] éléments d'incompréhension que vous
+[NaN:NaN] citez sur l'ensemble des éléments qui
+[NaN:NaN] ont été découvert dans le jeu. On est à
+[NaN:NaN] 85 % d'éléments découverts. Il reste
+[NaN:NaN] cinq éléments qui n'ont pas été
+[NaN:NaN] découverts et ce qui est un peu logique
+[NaN:NaN] puisque plusieurs de ces éléments se
+[NaN:NaN] suivent un peu en en chaîne. Donc si
+[NaN:NaN] l'un n'est pas trouvé, forcément ceux
+[NaN:NaN] qui suivent juste derrière sont
+[NaN:NaN] difficiles voire impossible à trouver.
+[NaN:NaN] Et le point commence au lieu familier.
+[NaN:NaN] La pièce a été bien trouvée, la les
+[NaN:NaN] unités de mesure ont été bien trouvées,
+[NaN:NaN] les points de départ ont été également
+[NaN:NaN] bien trouvé, mais je n'ai pas trouvé
+[NaN:NaN] pour l'instant le bon calcul et
+[NaN:NaN] je pense que il y a eu une grosse erreur
+[NaN:NaN] sur le la le calcul du lieu familier qui
+[NaN:NaN] mène beaucoup d'entre vous vers un
+[NaN:NaN] mauvais lieu. Et par conséquent, comme
+[NaN:NaN] le lieu familier n'a pas été découvert,
+[NaN:NaN] l'ordre nouveau non plus. L'avancée par
+[NaN:NaN] rapport à la dernière fois, c'est la
+[NaN:NaN] pièce et le fait d'avoir découvert la
+[NaN:NaN] pierre d'attente. Voilà, beaucoup
+[NaN:NaN] d'entre vous ont de ont de bonnes
+[NaN:NaN] intuitions sur le cachemire, le fer, la
+[NaN:NaN] jade ainsi que sur le lire de la
+[NaN:NaN] connaissance et certains ont même bruit
+[NaN:NaN] de forcé parce que pour le coup, c'est
+[NaN:NaN] l'un des rares éléments du jeu qui est
+[NaN:NaN] courtcircutable et donc la la pierre
+[NaN:NaN] d'attente a été découverte par plusieurs
+[NaN:NaN] joueurs, ce qui était pas forcément le
+[NaN:NaN] cas avant, mais il reste le lieu finier
+[NaN:NaN] et surtout la fin de l'énigme 5, à
+[NaN:NaN] savoir le lieu d'où jaillit l'ordre
+[NaN:NaN] nouveau. Et ensuite bah sur la 6
+[NaN:NaN] là aussi la 6 est très peu avancé donc
+[NaN:NaN] surtout la force d'âme, le lieu du
+[NaN:NaN] dernier combat et du coup le pile poil,
+[NaN:NaN] ça n'a pas été découvert. Donc voilà
+[NaN:NaN] pour l'état d'avancement de la
+[NaN:NaN] communauté dans son ensemble. Et
+[NaN:NaN] ensuite, j'ai regardé joueur par joueur.
+[NaN:NaN] Donc bon, j'ai j'ai plusieurs centaines
+[NaN:NaN] de cheminements qui qui me sont
+[NaN:NaN] parvenus, plus les résultats du sondage.
+[NaN:NaN] Et il y a une poignée de joueur qui a
+[NaN:NaN] résolu intégralement les quatre
+[NaN:NaN] premières énigmes et qui a également
+[NaN:NaN] trouvé la pierre d'attente, la pièce, le
+[NaN:NaN] cachemi, le faire la jade ainsi que
+[NaN:NaN] les certains éléments de la 6, notamment
+[NaN:NaN] l'allié précieux et ça amène une poignée
+[NaN:NaN] de joueur àiller entre 60 et 70 % de
+[NaN:NaN] résolution complète. Il y a une personne
+[NaN:NaN] qui est à 70. Voilà ce que je peux vous
+[NaN:NaN] dire sur l'avancement total élément par
+[NaN:NaN] élément.
+[NaN:NaN] Euh le mal jumeau a été correctement
+[NaN:NaN] identifié par quelques joueurs mais ce
+[NaN:NaN] n'est pas une majorité. Sur les réponses
+[NaN:NaN] que j'ai obtenu il y en a plus de la
+[NaN:NaN] moitié qui ont trouvé l'abdom pièce donc
+[NaN:NaN] je n'ai plus l'impression que ce soit
+[NaN:NaN] une difficulté. La charte de l'énigme 4
+[NaN:NaN] pareil le résultat a été trouvé par un
+[NaN:NaN] peu moins de la moitié des joueurs, mais
+[NaN:NaN] il a été massivement trouvé tout de même
+[NaN:NaN] et vous souhaitez un nouvel indice à 84
+[NaN:NaN] %. Et donc je suis en train de le
+[NaN:NaN] préparer. Alors ça prend un peu de temps
+[NaN:NaN] et j'ai pas mal réfléchi sur quel
+[NaN:NaN] élément porterait ce nouvel indice et il
+[NaN:NaN] me semble très probable qu'il porte du
+[NaN:NaN] coup sur le lieu familier et l'ordre
+[NaN:NaN] nouveau. Donc sur l'énigme 5. Euh voilà
+[NaN:NaN] ce que je pouvais vous dire par rapport
+[NaN:NaN] au retour du progressivomètre le plus
+[NaN:NaN] récent. Et maintenant que c'est dit, je
+[NaN:NaN] vais pouvoir répondre. Alors déjà si
+[NaN:NaN] vous avez des retours, si vous avez des
+[NaN:NaN] questions sur ce progressivom, posez-les
+[NaN:NaN] maintenant. Je je pourrais y répondre
+[NaN:NaN] pour éviter d'y revenir plus tard. Et
+[NaN:NaN] sinon, je vais je vais commencer à
+[NaN:NaN] répondre aux questions que vous m'avez
+[NaN:NaN] posé par écrit. Et comme il y a eu euh
+[NaN:NaN] euh comme la dernière FAQ remonte il y a
+[NaN:NaN] 2 mois, il y a un peu plus de questions
+[NaN:NaN] que d'habitude. Alors, je commence tout
+[NaN:NaN] de suite avec une question de Diogène.
+[NaN:NaN] Au sujet du lire de la connaissance,
+[NaN:NaN] vous avez dit qu'il poussait de bas en
+[NaN:NaN] haut irrégulièrement selon le trajet
+[NaN:NaN] qu'il indiquait. Si on avait compris de
+[NaN:NaN] quoi il s'agissait d'acte, mais doit-on
+[NaN:NaN] prendre en compte principalement le
+[NaN:NaN] critère géographique ou le critère
+[NaN:NaN] chronologique ? pour placer nos points
+[NaN:NaN] et faire que sa pousse soit optimale.
+[NaN:NaN] Euh, vous devez prendre en compte le
+[NaN:NaN] critère géographique pour tracer euh le
+[NaN:NaN] chemin le plus court possible. Question
+[NaN:NaN] Delphie. L'un des cavaliers porte un
+[NaN:NaN] blason. Ce qui a pensé que l'on peut
+[NaN:NaN] placer les cavaliers sur une carte. Si
+[NaN:NaN] on faisait cela, serait-il tous en
+[NaN:NaN] France ? Euh, je ne peux pas répondre à
+[NaN:NaN] la dernière partie de la question. Par
+[NaN:NaN] contre, il me semble tout à fait
+[NaN:NaN] pertinent de positionner
+[NaN:NaN] euh euh des cavaliers. Question de pas
+[NaN:NaN] lundi. Bontienne, la pierre d'attente
+[NaN:NaN] peut-elle me soulager de mon fardeau ?
+[NaN:NaN] Alors ça dépend de ce que vous entendez
+[NaN:NaN] par fardeau, mais dans son appellation
+[NaN:NaN] la plus courante, je ne pense pas. Non.
+[NaN:NaN] Non. S'il y a une dimension un peu plus
+[NaN:NaN] je vois pas comment le formuler sans
+[NaN:NaN] donner un indice, donc je vais
+[NaN:NaN] m'abstenir. L'objet de la CC de la
+[NaN:NaN] chambre cachée est-il fabriqué sur
+[NaN:NaN] mesure ? Oui. Pourquoi ne pas avoir
+[NaN:NaN] appelé l'autre trésor seconde relique ?
+[NaN:NaN] puisque c'est grâce à la première
+[NaN:NaN] relique que l'on trouve l'autre trésor.
+[NaN:NaN] [Musique]
+[NaN:NaN] Je ne donne pas de détail sur sur ce que
+[NaN:NaN] symbolise ou sur sur l'identité de ce
+[NaN:NaN] trésor. Donc par conséquent, c'est pour
+[NaN:NaN] ça que j'ai choisi le terme de trésor.
+[NaN:NaN] Vous dites que l'objet toujours dans la
+[NaN:NaN] chambre cachée n'a-t-il pas été déplacé
+[NaN:NaN] puis remis à sa place pour subir des
+[NaN:NaN] restaurations suite aux allées à du
+[NaN:NaN] temps ? Non. Et d'ailleurs, ce serait
+[NaN:NaN] très compliqué de déplacer
+[NaN:NaN] alors euh ce qui euh ce qui symbolise un
+[NaN:NaN] objet mais qui n'est pas proprement
+[NaN:NaN] parlé à l'endroit où il se trouve euh un
+[NaN:NaN] objet. Je suis sur le lieu de la pierre
+[NaN:NaN] d'attente. Faut-il que je pénètre encore
+[NaN:NaN] dans un édifice ou autre structure pour
+[NaN:NaN] la voix de mes propres yeux ? Euh non,
+[NaN:NaN] quand vous faites mention de une fois
+[NaN:NaN] que vous êtes arrivé à pierre d'attente,
+[NaN:NaN] vous n'avez plus rien à faire. Ça va
+[NaN:NaN] être votre point de départ pour ensuite
+[NaN:NaN] trouver euh l'ordre nouveau. Quand vous
+[NaN:NaN] faites mention de vol d'oiseau,
+[NaN:NaN] s'agit-il à chaque fois d'une île droite
+[NaN:NaN] sans dévier sans tenir compte des
+[NaN:NaN] contraintes géographiques et géologiques
+[NaN:NaN] physiques ou que parfois ça puisse être
+[NaN:NaN] une façon dont on verrait un édifice,
+[NaN:NaN] une ville, un paysage en volant
+[NaN:NaN] au-dessus. Non, c'est plutôt la première
+[NaN:NaN] le premier parti prix qui est le bon.
+[NaN:NaN] Existe-t-il le même style d'objet celui
+[NaN:NaN] de la chambre cachée avec la même
+[NaN:NaN] fonction dans une autre civilisation que
+[NaN:NaN] celle qui nous intéresse ? Oui, même si
+[NaN:NaN] évidemment le contenu
+[NaN:NaN] ce que ce que ce que ce qu'on ce que dit
+[NaN:NaN] cet objet entre guillemets va varier.
+[NaN:NaN] A-t-on déjà tenté de dérob l'objet de la
+[NaN:NaN] chambre cachée où cette hypothèse n'est
+[NaN:NaN] pas envisageable vu sa taille et son
+[NaN:NaN] emplacement ? Euh non, ce n'est pas
+[NaN:NaN] envisageable. Question de My si je
+[NaN:NaN] tourne ma croix d'un empire à l'autre et
+[NaN:NaN] que je vois mon centre de faire dois-je
+[NaN:NaN] faire mes cercles avant ou après ? Euh,
+[NaN:NaN] vous n'aurez pas besoin de faire des
+[NaN:NaN] cercles depuis le centre de l'univers.
+[NaN:NaN] Question de Coco, la Trinité est-elle
+[NaN:NaN] équilatérale ? Euh,
+[NaN:NaN] je ne peux pas répondre à cette
+[NaN:NaN] question. Question d'Éc. Devons-nous
+[NaN:NaN] utiliser la boule de cristal de pour
+[NaN:NaN] décrypter un élément ou bien celle-ci ne
+[NaN:NaN] nous sert qu'à confirmer l'activité
+[NaN:NaN] d'une personne découverte ? Non, vous
+[NaN:NaN] n'avez pas besoin d'utiliser la boule de
+[NaN:NaN] cristal pour décrypter un élément. Et je
+[NaN:NaN] reviens du coup juste sur les questions.
+[NaN:NaN] Alors donc euh question de Marlot donc
+[NaN:NaN] 85 % je je vois qu'il y avait pas de
+[NaN:NaN] nouvelles questions du coup sur l'état
+[NaN:NaN] d'avancement.
+[NaN:NaN] Question de Indy 83. Bonsoir Étien une
+[NaN:NaN] fois sur le terrain le vestige trouvé
+[NaN:NaN] avantnous encore des décryptages à
+[NaN:NaN] effectuer pour compléter la contine. Je
+[NaN:NaN] pense que vous voyez où j'en suis. vous
+[NaN:NaN] je ne pourrais pas répondre sur le terme
+[NaN:NaN] de contine mais le fait d'être sur un
+[NaN:NaN] terrain enfin si vous êtes sur le
+[NaN:NaN] terrain c'est que vous avez trouver
+[NaN:NaN] parfaitement le pile poil si vous avez
+[NaN:NaN] simplement trouvé une zone c'est qu'il
+[NaN:NaN] vous reste des décryptages à effectuer
+[NaN:NaN] sur le parchemin question de Diogène
+[NaN:NaN] serait-il pertinent de penser que la
+[NaN:NaN] pierre d'attente ou le lieu de son
+[NaN:NaN] emplacement a un lien avec la
+[NaN:NaN] connaissance véhiculée par le lière oui
+[NaN:NaN] mais ce n'est pas forcément obligatoire
+[NaN:NaN] question de diogène toujourme 5 une x 2
+[NaN:NaN] 5 3 548 utiliser sur objet "Est-ce que
+[NaN:NaN] je quitte le pays de la chambre cachée
+[NaN:NaN] pour un autre afin d'y planter le lière
+[NaN:NaN] ?" Et euh la réponse est oui. Tout à
+[NaN:NaN] fait. Euh à un moment donné de ma quête
+[NaN:NaN] et avant d'en découdre, est-ce que faire
+[NaN:NaN] tapisserie entre guillemets pourrait
+[NaN:NaN] être paradoxalement une action voir une
+[NaN:NaN] position proactive ? Et non, je ne pense
+[NaN:NaN] pas. Question de Lasco. Est-il farfelu
+[NaN:NaN] d'imaginer un lien qui unit le corps et
+[NaN:NaN] l'âme ? Non, au contraire. Question de
+[NaN:NaN] Mélise. Si je rentre dans un temple, la
+[NaN:NaN] chambre cachée est-elle dedans ? Non.
+[NaN:NaN] Est-ce que la chambre cachée était un
+[NaN:NaN] coffre mégalque ? Je ne peux pas
+[NaN:NaN] répondre. L'in et le lait sont-ils des
+[NaN:NaN] bons candidat pour le mal jumeau ?
+[NaN:NaN] Non. Bonsoir Étienne. Question
+[NaN:NaN] d'ammonite. Les gardiens peuvent-ils
+[NaN:NaN] être imparfaits géométriquement
+[NaN:NaN] parlant ? Oui, tout à fait. Question de
+[NaN:NaN] may. La notion de mise en abîme sur mon
+[NaN:NaN] blason peut m'être nécessaire. Alors, la
+[NaN:NaN] notion de mise en abîme est très
+[NaN:NaN] intéressante dans le cadre du jeu et
+[NaN:NaN] même un un moment assez précis. Mais
+[NaN:NaN] s'agissant du blason, je ne crois pas.
+[NaN:NaN] Non. Question de ma cercle tournent-il
+[NaN:NaN] sur un même centre, deux centres ou
+[NaN:NaN] plusieurs à la fois ? Alors, ça dépend
+[NaN:NaN] sur quel énigme. Euh, en l'occurrence
+[NaN:NaN] tiens toi à égale distance, ce sont ce
+[NaN:NaN] seront bien deux cercles à tracer mais
+[NaN:NaN] il peut y avoir d'autres moments du jeu
+[NaN:NaN] où c'est différent. Question de vitrise
+[NaN:NaN] : "Dans une ancienneu, vous disiez que
+[NaN:NaN] les gardiens peuvent être utiles à autre
+[NaN:NaN] chose que à grap. Le temps qu'il
+[NaN:NaN] s'enfuit, peut-il nous aider à trouver
+[NaN:NaN] cette autre chose ? Non, ce ser ce sera
+[NaN:NaN] bien distin." Bonjour, question de
+[NaN:NaN] Mousse et Maja. Peut-on toucher du doigt
+[NaN:NaN] le mal depuis l'espace ? H Non, question
+[NaN:NaN] d'amonite. Bonsoir, compte. Peut-on
+[NaN:NaN] finir le jeu sans déterminer ce qui'est
+[NaN:NaN] la grappe ? Et après avoir misé sur le
+[NaN:NaN] bon cheval, peut-on laisser les autres
+[NaN:NaN] chevaux dans leur enclos ? Ça me paraît
+[NaN:NaN] compliqué surtout que la grappe est
+[NaN:NaN] quand même un élément de de début de
+[NaN:NaN] jeu.
+[NaN:NaN] Donc ça ça me paraît compliqué. Et après
+[NaN:NaN] avoir misé sur le bon cheval, peut-on
+[NaN:NaN] laisser les autres chevaux dans leur
+[NaN:NaN] enclos ? Pas tout à fait non. Question
+[NaN:NaN] de Lasco. Bonsoir. Le personnage a-t-il
+[NaN:NaN] marqué l'histoire de manière favorable
+[NaN:NaN] et s'est-il fait une bonne réputation ?
+[NaN:NaN] Là-dessus, je ne peux pas répondre.
+[NaN:NaN] Alors, je reprends sur il y a une
+[NaN:NaN] question de Lasco. Personne n'a la zone
+[NaN:NaN] finale. Il y a des joueurs qui sont
+[NaN:NaN] proches euh du pile poil mais par
+[NaN:NaN] inadvertance, pas parce qu'ils ont euh
+[NaN:NaN] décrypté le jeu. Donc, je ne pense pas
+[NaN:NaN] qu'ils arriveront euh sur le pile poil,
+[NaN:NaN] notamment parce que la zone finale se
+[NaN:NaN] trouve avec des éléments qui n'ont pas
+[NaN:NaN] encore été découverts. Alors, question
+[NaN:NaN] de CF 33. Est-ce que Novus Hordo est à
+[NaN:NaN] appliquer directement sur la charade ?
+[NaN:NaN] Non.
+[NaN:NaN] Question d'amonite. Pourir contre, les
+[NaN:NaN] gardiens peuvent-ils être indépendants
+[NaN:NaN] ne pas se toucher ou se croiser ? Alors
+[NaN:NaN] non, les gardiens vont être assez
+[NaN:NaN] imbriqués et c'est leur imbrication qui
+[NaN:NaN] va vous donner un élément très utile
+[NaN:NaN] pour avancer dans l'énigming. Question
+[NaN:NaN] de Stef : Est-ce qu'un bâton avec un
+[NaN:NaN] embout spécifique peut-être utile dans
+[NaN:NaN] notre quête ? Non, pas spécialement.
+[NaN:NaN] Doit-on relier par un tracé plusieurs
+[NaN:NaN] reliques ? C'est une très bonne remarque
+[NaN:NaN] euh mais je ne peux pas vous donner
+[NaN:NaN] d'indications sur les tracés à effectuer
+[NaN:NaN] dans le jeu. Question d'offen back. Ceci
+[NaN:NaN] dit, il y a des instructions dans le
+[NaN:NaN] parchemin pour vous vous mener sur piste
+[NaN:NaN] des tracés effectués. Bonsoir compte.
+[NaN:NaN] Est-ce qu'une coquille peut être utile
+[NaN:NaN] dans le jeu ? Alors ça dépend de quelle
+[NaN:NaN] coquille. Si vous me parlez par exemple
+[NaN:NaN] des coquill de Saint-Jacques ou
+[NaN:NaN] saint-jacques de Compostelle pas
+[NaN:NaN] vraiment. Euh si c'est des coquilles
+[NaN:NaN] orthographiques comme je suis coutumé du
+[NaN:NaN] fait non plus. Donc à voir euh à quelle
+[NaN:NaN] coquille vous faites allusion. Question
+[NaN:NaN] de Lasco. Bonsoir contre l'aiguille
+[NaN:NaN] immortel de charad-il une référence
+[NaN:NaN] biblique ? Je ne peux pas répondre à
+[NaN:NaN] cette question. Question de Mariella
+[NaN:NaN] dans le poème le Gisandor est-il un
+[NaN:NaN] personnage de sang noble ? Alors,
+[NaN:NaN] Gisandor fait référence à l'ordre qui
+[NaN:NaN] qui s'est vu monter plus haut que le
+[NaN:NaN] roi, mais en l'occurrence parmi
+[NaN:NaN] les personnes de cet ordre qui ont pu
+[NaN:NaN] tomber, oui, il y avait des des
+[NaN:NaN] personnes au nom noble. Question de
+[NaN:NaN] Mailey. Y a-t-il une seule étoile de
+[NaN:NaN] David ou bien plusieurs ? Et ma pierre
+[NaN:NaN] cubique reste-elle ouverte ou bien
+[NaN:NaN] fermée ? Alors, il y a six étoiles sur
+[NaN:NaN] le visuel 3. C'est tout ce que je peux
+[NaN:NaN] dire à ce sujet. Et s'agissant de la
+[NaN:NaN] pierre cubique, ça n'a pas d'importance
+[NaN:NaN] de savoir si elle reste ouverte ou
+[NaN:NaN] fermée. Question de Bobax. Une partie du
+[NaN:NaN] titre de l'œuvre la plus populaire d'un
+[NaN:NaN] certain RC était de la meilleure idée à
+[NaN:NaN] suivre pour décrypter le cachemire, le
+[NaN:NaN] fer et le jade. Non, non, ce sont
+[NaN:NaN] vraiment des éléments qui sont bien
+[NaN:NaN] asséparés. Question d'Esperluette.
+[NaN:NaN] Bonsoir est-il impossible dans le coup
+[NaN:NaN] de pouce la formule la psalmodiant tati
+[NaN:NaN] soit un double indice, c'est-à-dire
+[NaN:NaN] qu'il s'agisse de deux éléments de
+[NaN:NaN] nature différente des animes 4 et 5.
+[NaN:NaN] Puis-je penser comme les habitants du TC
+[NaN:NaN] que l'arbre de l'illustration une est un
+[NaN:NaN] refuge ? Alors non, pas sur
+[NaN:NaN] pas sur l'énigme 5. Ça va principalement
+[NaN:NaN] concerner l'énigme 4. Question d'Indy
+[NaN:NaN] 83. Peut-on marcher sur le coffre sans
+[NaN:NaN] se rendre compte ? Ça me paraît très
+[NaN:NaN] compliqué donc je répondrai plutôt que
+[NaN:NaN] non. Question de Stev. Bonsoir FAQ11.
+[NaN:NaN] Vous disiez prévoir un déplacement afin
+[NaN:NaN] de vérifier le coffre élément de
+[NaN:NaN] confirmation si celui-ci n'a pas été
+[NaN:NaN] déplacé. Avez-vous pu vérifier ? Non. Et
+[NaN:NaN] pareil, ça me paraît assez compliqué vu
+[NaN:NaN] euh alors je euh je n'ai pas encore de
+[NaN:NaN] problème mais je je pense que ce serait
+[NaN:NaN] risqué de tenter une expédition euh euh
+[NaN:NaN] actuellement euh parce que euh la
+[NaN:NaN] discrétion ne serait pas forcément euh
+[NaN:NaN] assurée. Donc euh je je je dois le faire
+[NaN:NaN] dans les dans de très bonnes conditions
+[NaN:NaN] de confidentialité et pour l'instant les
+[NaN:NaN] conditions ne sont pas réunies. Question
+[NaN:NaN] de CF 331. Est-ce que résoudre les
+[NaN:NaN] différentes énigmes du parchemin permet
+[NaN:NaN] de réduire peu à peu notre zone de
+[NaN:NaN] recherche ou bien est-ce que cela nous
+[NaN:NaN] fait avancer d'un point à un autre
+[NaN:NaN] jusqu'au lieu de la cache ? Ça vous fait
+[NaN:NaN] avancer d'un point à un autre jusqu'à
+[NaN:NaN] trouver la zone et le pilepoil, mais
+[NaN:NaN] vous n'avez pas trouvé cette zone par
+[NaN:NaN] rétrécissement. Elle va vous apparaître
+[NaN:NaN] d'un coup lorsque vous avez découvert
+[NaN:NaN] l'immense majorité des éléments.
+[NaN:NaN] Question de Mariéin. Bonsoir compte. La
+[NaN:NaN] lune est absente des illustrations.
+[NaN:NaN] Faut-il néanmoins s'y intéresser ? Et
+[NaN:NaN] euh je ne peux pas répondre à cette
+[NaN:NaN] question malheureusement. Question de
+[NaN:NaN] Diogène. Question au sujet de la pierre
+[NaN:NaN] d'tinente du Cachemir Ferjade qui se
+[NaN:NaN] rejoigne. Se rejoignent-ils à un endroit
+[NaN:NaN] déjà connu par nous à ce moment du jeu ?
+[NaN:NaN] La réponse est non. Est-ce un
+[NaN:NaN] rejoignement physique, virtuel,
+[NaN:NaN] spirituel, autre ? C'est un rejoignement
+[NaN:NaN] physique, géographique. Est-ce nous qui
+[NaN:NaN] les réunissons ? Oui. Y a-t-il
+[NaN:NaN] l'intervention à troisème élément ou
+[NaN:NaN] paramètres lié à la connaissance qui
+[NaN:NaN] permet ce rejoignement ? Et oui, tout à
+[NaN:NaN] fait. Question de Dang 13. Bonjour
+[NaN:NaN] Étienne. Est-ce que le Cachemir, le jade
+[NaN:NaN] et le fer peuvent former un ensemble
+[NaN:NaN] lors d'une initiation ou bien une
+[NaN:NaN] cérémonie ? Et la réponse est non.
+[NaN:NaN] Question d'ang. Est-ce que l'astre le
+[NaN:NaN] plus haut brille dans la nuit ou bien
+[NaN:NaN] fait-il référence à un lieu non habité
+[NaN:NaN] par l'homme mais par une présence divine
+[NaN:NaN] ? H non, ça ne fait pas référence à un
+[NaN:NaN] lieu non habité par l'homme. Question de
+[NaN:NaN] CF 33. Est-ce que le message envoyé en
+[NaN:NaN] cas de solution non correcte est
+[NaN:NaN] strictement le même pour tous ? Oui,
+[NaN:NaN] tout à fait. C'est un message qui
+[NaN:NaN] intervient
+[NaN:NaN] de semaines après votre envoi. C'est la
+[NaN:NaN] durée maximum pour que je puisse lire
+[NaN:NaN] intégralement tout ce que vous m'avez
+[NaN:NaN] envoyé. Donc je fais une première phase
+[NaN:NaN] où je lis sur les trois derniers jours
+[NaN:NaN] tout ce qui m'est parvenu pour vérifier
+[NaN:NaN] que la solution n'est pas n'est pas
+[NaN:NaN] envoyé. Donc vérifier et potentiellement
+[NaN:NaN] appeler le gagnant ou la gagnante. Et
+[NaN:NaN] ensuite je me laisse un peu plus de
+[NaN:NaN] temps pour lire dans le détail ce que
+[NaN:NaN] vous en voyez parce que parfois il y a
+[NaN:NaN] des PDF qui peuvent faire 150 ou 200
+[NaN:NaN] pages. Donc ça demande beaucoup de
+[NaN:NaN] lecture. Question de Shutun. Bonsoir
+[NaN:NaN] Étienne. Il n'y a qu'une réponse à la
+[NaN:NaN] charade de l'énigme 4. Mais serait-il
+[NaN:NaN] correct de penser qu'il y a un message
+[NaN:NaN] sous-jacent en plus de charade ? Alors
+[NaN:NaN] un message sous-jacent peut-être peint
+[NaN:NaN] mais en effet la façon dont vous trouvez
+[NaN:NaN] la charade n'est pas anodine. Question
+[NaN:NaN] Dindy 83. Ai-je révisons d'éveiller mes
+[NaN:NaN] sens au moment final du lieu du coffre ?
+[NaN:NaN] Je ne peux pas répondre à cette
+[NaN:NaN] question. Est-ce que 18 en fur roi vous
+[NaN:NaN] parlent ? Alors je non. à moins que vous
+[NaN:NaN] parliez des 18 rois qui se font appeler
+[NaN:NaN] Louis, mais là-dessus ça n'aurait pas
+[NaN:NaN] d'impact, ça n'aurait pas de
+[NaN:NaN] d'importance pour l'élixir.
+[NaN:NaN] Question de diogène, je réfléchis euh
+[NaN:NaN] maintenant non ça le chiffre 18 me parle
+[NaN:NaN] en effet dans un contexte de royauté
+[NaN:NaN] mais il faut remonter à très loin si
+[NaN:NaN] c'est à ça que vous faites référence.
+[NaN:NaN] Question de Diogène FAQ18 vous a dit que
+[NaN:NaN] le lieu de l'emplacement de la pierre
+[NaN:NaN] d'attente était important et
+[NaN:NaN] représentait un lieu d'intermédiation.
+[NaN:NaN] Pouvez-vous préciser si son
+[NaN:NaN] intermédiation se caractérise à la fois
+[NaN:NaN] comme carrefour et catalyseur d'éléments
+[NaN:NaN] constitutifs de du fil rouge ou de son
+[NaN:NaN] importance participe à confirmer le
+[NaN:NaN] dernier cavalier ? Alors, ce n'est pas
+[NaN:NaN] un lieu d'intermédiation par rapport à
+[NaN:NaN] l'élixir d'or. C'est un lieu
+[NaN:NaN] d'intermédiation dans le monde physique
+[NaN:NaN] à l'endroit où vous le trouvez. C'est un
+[NaN:NaN] lieu d'intermédiation concret qui a été
+[NaN:NaN] utilisé par d'innombrables
+[NaN:NaN] gens au cours des siècles et qui
+[NaN:NaN] persiste encore dans certaines
+[NaN:NaN] traditions. Voilà comment se comprend ce
+[NaN:NaN] lieu d'intermédiation. Question de
+[NaN:NaN] Sherlock.
+[NaN:NaN] Concernant la mousse sur le rocher de
+[NaN:NaN] l'animaux 5, sa forme était-elle décrite
+[NaN:NaN] dans le cahier des charges ou est-ce une
+[NaN:NaN] liberté d'artiste ? Il s'agit d'une
+[NaN:NaN] liberté de l'artiste. La chasse débute
+[NaN:NaN] en soirée où nous sommes déjà dans la
+[NaN:NaN] nuit quand nous commençons notre quête.
+[NaN:NaN] La chasse débute en soirée. Je dirais
+[NaN:NaN] que pour résoudre le Naga, lire le livre
+[NaN:NaN] d'Henrymo est presque obligatoire.
+[NaN:NaN] Peut-on dire la même chose pour la TST
+[NaN:NaN] et l'élixir d'or ? Euh alors, je ne peux
+[NaN:NaN] pas répondre à cette question puisque
+[NaN:NaN] vous utilisez un terme qui me semble un
+[NaN:NaN] peu trop évident. Question de Lasco
+[NaN:NaN] concernant l'Élme 6, après s'être
+[NaN:NaN] enfoncé dans le centre de la terre,
+[NaN:NaN] après avoir vu l'œil des ténèbres,
+[NaN:NaN] faut-il en sortir pour se purifier ? Et
+[NaN:NaN] a-t-on besoin d'y revenir plus tard ?
+[NaN:NaN] Oui, vous avez besoin d'en sortir mais
+[NaN:NaN] vous n'aurez pas besoin d'y revenir.
+[NaN:NaN] Question de Layat. Sur visuel 1, peuton
+[NaN:NaN] qualifier l'arme même si c'est
+[NaN:NaN] approximatif d'arbre à âme ? H oui,
+[NaN:NaN] d'une certaine façon. C'est pas ce n'est
+[NaN:NaN] pas faux. Question de Lasco. Tracer ce
+[NaN:NaN] que Dieu veut, c'est le dernier tracé
+[NaN:NaN] qui nous est demandé. Est-ce le dernier
+[NaN:NaN] effort pour resserrer les taux et
+[NaN:NaN] prendre une pause ? Hm oui, mais la
+[NaN:NaN] pause va être de très très courte durée.
+[NaN:NaN] Question de Shutou le compte de
+[NaN:NaN] Saint-Germain. Est-ce que le batisseur
+[NaN:NaN] de bonne loi bat toujours la monnaie ou
+[NaN:NaN] a-t-il été remplacé ? Al, c'est une
+[NaN:NaN] excellente question. Euh et la réponse
+[NaN:NaN] est oui, il a été remplacé. Question de
+[NaN:NaN] Lasco. À la fin du jeu, vous parlez
+[NaN:NaN] d'une rencontre avec un élément
+[NaN:NaN] perturbateur, mais s'il me perturbe,
+[NaN:NaN] est-ce que je le perturbe aussi ? Oui,
+[NaN:NaN] tout à fait. Question de Une cendre
+[NaN:NaN] est-elle reliée à un point où bon nombre
+[NaN:NaN] de personnes ont été condamnées à la
+[NaN:NaN] pendaison ? Pas ce que je sache, non, je
+[NaN:NaN] réfléchis. Sur une des deux cendres, je
+[NaN:NaN] suis sûr que non. Sur l'autre ? Sur
+[NaN:NaN] l'autre,
+[NaN:NaN] je ne sais pas. La question va être
+[NaN:NaN] bizarre. C'est une fausse piste. Dois-je
+[NaN:NaN] écrire pour le chasser ? Alors, je je ne
+[NaN:NaN] comprends pas la question, donc je veux
+[NaN:NaN] bien que vous la reposiez avec un peu
+[NaN:NaN] plus de précision. Question de Diogène.
+[NaN:NaN] Dans la FAQ16, vous dites que la pierre
+[NaN:NaN] d'attente a un usage très proche de
+[NaN:NaN] celui de l'objet de la chambre cachée.
+[NaN:NaN] Oui, en effet. Et c'est dire que l'objet
+[NaN:NaN] amènerait également après modification à
+[NaN:NaN] un lieu d'intermédiation voire de
+[NaN:NaN] translation. Oui, mais ce n'est pas dans
+[NaN:NaN] ce sens-là que l'usage est très proche.
+[NaN:NaN] Là, vous vous éloignez un peu. L'usage
+[NaN:NaN] est très proche sur la pierre d'attente
+[NaN:NaN] et sur l'objet initial avant
+[NaN:NaN] modification.
+[NaN:NaN] Question de mail. Doit-on en fonction de
+[NaN:NaN] nos Y au début choisir les deux bons H
+[NaN:NaN] pour la direction de notre croix ?
+[NaN:NaN] Alors, est-ce que vous pouvez repréciser
+[NaN:NaN] votre question parce que pareil, je l'ai
+[NaN:NaN] pas très bien comprise. Est-ce qu'une
+[NaN:NaN] certaine confréie a été mise en place
+[NaN:NaN] pour valoriser leur AOC ? Si vous parlez
+[NaN:NaN] des confréies vineuses bâchiqu
+[NaN:NaN] Non, en tout cas pas dans le cadre de
+[NaN:NaN] l'élixir d'or et de toute façon les
+[NaN:NaN] énigmes sont très indépendante des
+[NaN:NaN] partenaires viticol donc il n'y aurait
+[NaN:NaN] aucun lien entre les partenaires
+[NaN:NaN] commerciaux ou d'éventuelles confréies
+[NaN:NaN] de nos de des partenaires pour
+[NaN:NaN] promouvoir leur AOC et le jeu. Question
+[NaN:NaN] de Jep. Notre personnage laisse tomber
+[NaN:NaN] son épée dans Visuel 5. Cela signifie
+[NaN:NaN] donc qu'il s'est déjà servi de cette
+[NaN:NaN] épée avant le dernier combat du visual
+[NaN:NaN] 6. Tout à fait. Euh en tout cas, il l'a
+[NaN:NaN] déjà en sa possession. Notre personnage
+[NaN:NaN] apparaît tout au long de nos visuels et
+[NaN:NaN] donc un peu notre héros. Mais est-il
+[NaN:NaN] bien le héros de notre dernier combat,
+[NaN:NaN] c'est-à-dire le meneur, le champion, le
+[NaN:NaN] commandant en chef ? Et la réponse est
+[NaN:NaN] euh il va participer au combat mais il
+[NaN:NaN] ne sera pas seul. Il a pour le coup sa
+[NaN:NaN] force d'âme avec lui, sa fidèle menture
+[NaN:NaN] et son allié précieux. Et ce sont ces
+[NaN:NaN] éléments qui vont vous permettre de
+[NaN:NaN] gagner le combat. Question de Maryin. Le
+[NaN:NaN] compte le lire de la connaissance a-t-il
+[NaN:NaN] été documenté ? Pas ma connaissance,
+[NaN:NaN] c'est en tout cas un terme que j'ai
+[NaN:NaN] choisi pour les énigmes. Question de
+[NaN:NaN] Pierre : le lire de la connaissance
+[NaN:NaN] fait-il des aller retour pour suivre la
+[NaN:NaN] chronologie des lieux ? Non. Question du
+[NaN:NaN] dieu jeûne, j'ai l'impression que l'un
+[NaN:NaN] des textes du parchemin, je ne parle pas
+[NaN:NaN] d'un élément de texte, a été écrit sous
+[NaN:NaN] ou marqué par un saut particulier.
+[NaN:NaN] Suis-je dans le vrai ? Ça ne me dit rien
+[NaN:NaN] comme ça. Il y a beaucoup de textes de
+[NaN:NaN] référence. Je je pourrais pas vous
+[NaN:NaN] répondre sans sans faire peut-être une
+[NaN:NaN] bêtise. Question de la gourgne, le temps
+[NaN:NaN] s'enfuit déjà. Est-il pertinent de
+[NaN:NaN] traduire cette locution en latin ? Et la
+[NaN:NaN] réponse est non. Vous n'avez pas besoin.
+[NaN:NaN] Question d'illégale. Bonjour compte.
+[NaN:NaN] Est-ce que je dois être ouvert d'esprit
+[NaN:NaN] pour saisir l'indessence de RC ? Hm.
+[NaN:NaN] Oui, c'est mieux. Question d'illégale
+[NaN:NaN] toujours. Si je dois pratiquer
+[NaN:NaN] ésotérisme, dois-je aussi pratiquer
+[NaN:NaN] l'exotérisme ? C'est une bonne question.
+[NaN:NaN] Je ne suis pas très familier de ce
+[NaN:NaN] terme, donc je regarde juste en détail
+[NaN:NaN] ce que ça peut signifier. S'il s'agit de
+[NaN:NaN] croyances un peu profane adapté à une
+[NaN:NaN] religion, euh je dirais que ça peut
+[NaN:NaN] rentrer en effet dans le cadre de
+[NaN:NaN] l'élixir d'or. S'il y a des fissions que
+[NaN:NaN] vous avez beaucoup plus précises que ça,
+[NaN:NaN] je vous invite à la mettre pour que je
+[NaN:NaN] ne réponde pas à côté. Question de
+[NaN:NaN] Bobax. Le tracé des ces nous permet
+[NaN:NaN] d'identifier quelque chose selon vous.
+[NaN:NaN] D'accord. Mais peut-on faire cette
+[NaN:NaN] identification maintenant ou doit-on
+[NaN:NaN] mettre de côté ce tracé pour plus tard ?
+[NaN:NaN] Euh vous n'êtes pas forcé de le faire
+[NaN:NaN] immédiatement ? Non. Question d'Albus.
+[NaN:NaN] Est-ce que l'image de fond choisie pour
+[NaN:NaN] le coup de pouce t renversé renvoie un
+[NaN:NaN] élément pertinent pour la chasse ou ça
+[NaN:NaN] n'a pas d'importance ? Ça n'a pas
+[NaN:NaN] d'importance. Question de Pierre. Y
+[NaN:NaN] a-t-il dans les visuels un indice nous
+[NaN:NaN] permettant de comprendre comment
+[NaN:NaN] utiliser 253 548 pour rectifier l'objet
+[NaN:NaN] ? Et la réponse est non. Question de
+[NaN:NaN] Jepp. Inri. Avons-nous rencontré la
+[NaN:NaN] croix et le feu d'Ineri avant ce
+[NaN:NaN] paragraphe ? Et la réponse est oui.
+[NaN:NaN] Question de Colin 31. À une précédente
+[NaN:NaN] FAQ, nous avions mis en garde sur
+[NaN:NaN] l'utilisation de Wikipédia pour
+[NaN:NaN] s'informer. Avez-vous des ressources,
+[NaN:NaN] des sites fiables, des bases de données
+[NaN:NaN] de livres en ligne à nous proposer pour
+[NaN:NaN] se renseigner sur l'histoire depuis
+[NaN:NaN] notre canapé ? Il y a beaucoup beaucoup
+[NaN:NaN] de sources variées dans des bons
+[NaN:NaN] ouvrages de référence sur internet.
+[NaN:NaN] Je je pourrais pas vous faire une liste
+[NaN:NaN] exhaustive, mais de façon générale,
+[NaN:NaN] parfois Wikipédia est très bien. Donc je
+[NaN:NaN] je vous invite simplement à vérifier
+[NaN:NaN] tous les sources au moins deux fois pour
+[NaN:NaN] vérifier qu'il n'y ait pas d'erreur
+[NaN:NaN] puisque comme c'est une encyclopédie qui
+[NaN:NaN] est enrichie par ses propres membres, il
+[NaN:NaN] n'y a pas toujours de vérification
+[NaN:NaN] régulière surtout sur les petits
+[NaN:NaN] articles. Question d'Albus. Seriez-vous
+[NaN:NaN] d'accord pour dire que l'audaceuse voit
+[NaN:NaN] effrayante ouverture d'échec via celui
+[NaN:NaN] qui l'a déployé comme un gant ? Euh non,
+[NaN:NaN] je ne je réfute le qualificatif
+[NaN:NaN] d'effrayant. Je ne vois pas ce qu'il
+[NaN:NaN] vient faire sur cette partie-là.
+[NaN:NaN] Question de Layat. Dans l'anigme 2, les
+[NaN:NaN] cercles précédents existent-ils en
+[NaN:NaN] dehors du contexte de la chasse ? Euh
+[NaN:NaN] oui, ils existent en dehors du contexte
+[NaN:NaN] de la chasse, tout à fait. même s'ils
+[NaN:NaN] sont pas matérialisés de la même façon
+[NaN:NaN] que ce que j'ai retenu pour la chasse.
+[NaN:NaN] Question de pas lundi, vous nous
+[NaN:NaN] recommandez d'utiliser Google Maps pour
+[NaN:NaN] tracer. Cependant, je ne peux tracer mon
+[NaN:NaN] dernier cercle sur cette application. En
+[NaN:NaN] effet, pour les cercs, je vous invite à
+[NaN:NaN] utiliser Google Earth Pro parce que sur
+[NaN:NaN] MyMaps, ce n'est pas possible. En tout
+[NaN:NaN] cas, moi je ne sais pas le faire.
+[NaN:NaN] Dois-je en déduire que ce qui est
+[NaN:NaN] important est donc le lieu du mal que je
+[NaN:NaN] vais voir avant de l'affronter ? Faut-il
+[NaN:NaN] en déduire également que des points
+[NaN:NaN] situés sur le périmètre de mon cercle
+[NaN:NaN] n'auraient aucun intérêt si que le rayon
+[NaN:NaN] de mon cercle il va du bon cheval ou
+[NaN:NaN] mal. Du coup, par conséquent, non, je
+[NaN:NaN] vous invite quand il le faut à tracer
+[NaN:NaN] des cercles. Question de JEP. Les termes
+[NaN:NaN] que vous avez employés par le lieu
+[NaN:NaN] familier et à travers le lieu familier
+[NaN:NaN] me laissent perplexe. En effet, une
+[NaN:NaN] pierre d'attente se situe entre deux
+[NaN:NaN] lieux d'intérêt dans notrequel se
+[NaN:NaN] situerait donc entre le lieu familier et
+[NaN:NaN] le nouvel ordre. Dans ce cas, à partir
+[NaN:NaN] du lieu familier, aurait-il été plus
+[NaN:NaN] parlant ?
+[NaN:NaN] Euh vous vous trompez euh c'est bien le
+[NaN:NaN] terme par le lieu familier compris comme
+[NaN:NaN] à travers le lieu familier. C'est-à-dire
+[NaN:NaN] que vous partez de la pierre d'attente,
+[NaN:NaN] vous allez passer à travers le lieu
+[NaN:NaN] famill qui est donc sur votre chemin et
+[NaN:NaN] c'est par cette route que vous allez
+[NaN:NaN] finir par voir jaillir l'ordre nouveau.
+[NaN:NaN] Question de Shutoun : Est-ce que mon
+[NaN:NaN] épopée m'indique la marche à suivre ou
+[NaN:NaN] est une fausse piste ? H je ne sais pas
+[NaN:NaN] ce que vous entendez par épopé donc
+[NaN:NaN] parce qu'il peut y avoir plusieurs sens.
+[NaN:NaN] Je sais pas si vous parlez d'omè ou de
+[NaN:NaN] de votre aventure en particulier mais du
+[NaN:NaN] coup je ne vois pas
+[NaN:NaN] exactement comment répondre à votre
+[NaN:NaN] question. Vous parlez souvent de la
+[NaN:NaN] temporalité des illustrations. Est-ce
+[NaN:NaN] que leur arrangement ou réarrangement
+[NaN:NaN] aurait aussi un sens ? Il convient en
+[NaN:NaN] effet de bien analyser la temporalité et
+[NaN:NaN] l'ordre dans lequel les éléments doivent
+[NaN:NaN] être découverts dans le jeu. Mais je
+[NaN:NaN] peux je pourrais pas répondre sur
+[NaN:NaN] l'ordre des énigmes, des illustrations.
+[NaN:NaN] Ça c'est à vous de le découvrir.
+[NaN:NaN] Question de Bobax, l'arbre
+[NaN:NaN] d'illustration 1. N'a-t-il qu'une seule
+[NaN:NaN] interprétation correcte pour le jeu ?
+[NaN:NaN] J'en vois notamment une en lien avec la
+[NaN:NaN] première relique, une autre pour le
+[NaN:NaN] bonus de la grappe et une autre en lien
+[NaN:NaN] avec le bâtiment du visuel 5. L'arbre
+[NaN:NaN] n'a pas autant d'importance que ce que
+[NaN:NaN] vous lui accordez. Donc je vous
+[NaN:NaN] conseillerai dans de rester très simple
+[NaN:NaN] avec l'arbre qui a une dimension
+[NaN:NaN] principalement symbolique qui n'est pasé
+[NaN:NaN] mais qui reste circonscrite à une partie
+[NaN:NaN] mineure de la chasse. Question de Stef :
+[NaN:NaN] cher compte, est-ce qu'une relique, je
+[NaN:NaN] ne crois pas que ce soit le bon terme de
+[NaN:NaN] cet objet que j'aurais trouvé lors de ma
+[NaN:NaN] quête, peut m'aider sur la zone finale à
+[NaN:NaN] déterminer la distance de pile poil à
+[NaN:NaN] partir d'un point de repère trouvé euh
+[NaN:NaN] sur cette zone et à moi de trouver euh
+[NaN:NaN] la direction. Non. C'est autre chose qui
+[NaN:NaN] va vous permettre de trouver le le pile
+[NaN:NaN] poil. Question de Maryin. Je constate
+[NaN:NaN] que le personnage est représenté sur
+[NaN:NaN] illustration par différentes tailles.
+[NaN:NaN] Cela-t de l'importance ? Se pourrait-il
+[NaN:NaN] qu'il y a une indication au temps ? Euh,
+[NaN:NaN] ça aurait été une très bonne idée, mais
+[NaN:NaN] en l'occurrence, je n'y ai pas pensé,
+[NaN:NaN] donc non. Question de Stef. Cher compte,
+[NaN:NaN] je pense que tapis rouge a une
+[NaN:NaN] importance capitale.
+[NaN:NaN] Êtes-vous d'accord ? Et
+[NaN:NaN] non, le tapis rouge n'est pas important.
+[NaN:NaN] Question de pas lundi. La chambre cachée
+[NaN:NaN] est cachée par visible uniquement par
+[NaN:NaN] des yeux d'initiés ou de croyants.
+[NaN:NaN] Alors, la chambre cachée est visible par
+[NaN:NaN] tous ceux qui peuvent bien y avoir
+[NaN:NaN] accès. On va dire que ce ça peut être
+[NaN:NaN] les inscriptions ou ce qui est présent
+[NaN:NaN] dans la chambre cachée qui mérite une
+[NaN:NaN] une attention un peu plus vive qu'on
+[NaN:NaN] aurait pas en première lecture. Question
+[NaN:NaN] de GEP. Un indice ou un tracé nous
+[NaN:NaN] permet-il d'identifier parfaitement le
+[NaN:NaN] pile poil ? Un tracé, ça va être
+[NaN:NaN] compliqué.
+[NaN:NaN] Mais une fois que vous avez la zone, en
+[NaN:NaN] effet, il y a il y a un décryptage à
+[NaN:NaN] faire pour trouver parfaitement le pile
+[NaN:NaN] poil. Lorsque vous parlez du dernier
+[NaN:NaN] combat, s'agit-il du lieu où nous nous
+[NaN:NaN] rassemblons avec notre allié précieux,
+[NaN:NaN] notre force d'âme et notre fidèle
+[NaN:NaN] monture pour faire face ou du lieu où se
+[NaN:NaN] situe notre adversaire ? Et bien c'est
+[NaN:NaN] un lieu où vous allez en effet
+[NaN:NaN] rassembler toutes toutes ces aides et
+[NaN:NaN] mais c'est aussi un lieu qui peut être
+[NaN:NaN] sur le chemin de ces aides et d'où vient
+[NaN:NaN] votre adversaire. Question de Bobax.
+[NaN:NaN] Avez-vous un conseil à donner pour qu'on
+[NaN:NaN] arrive au lieu familier sans avoir
+[NaN:NaN] recours à un indice supplémentaire ? Il
+[NaN:NaN] faut dire que malgré les bons élims,
+[NaN:NaN] nous sommes des quiches en calcul
+[NaN:NaN] visiblement. Euh ben je je pense que
+[NaN:NaN] c'est en effet euh bah l'élément pose le
+[NaN:NaN] plus problème actuellement euh dans le
+[NaN:NaN] jeu euh dans la chasse et dans sa dans
+[NaN:NaN] son évolution. Euh c'est pour ça que
+[NaN:NaN] l'indice que je prépare va se concentrer
+[NaN:NaN] euh sur cet élément. Euh question de
+[NaN:NaN] docteur Treasurer 27, j'adore ce nom.
+[NaN:NaN] Euh est-ce qu'un coup de pouce un peu
+[NaN:NaN] plus géographique est à l'étude ? Je ne
+[NaN:NaN] comprends rien lesotéristes ni comment
+[NaN:NaN] entre elles. Alors, je suis désolé mais
+[NaN:NaN] enfin l'un des thèmes majeurs du jeu, ça
+[NaN:NaN] va être l'ésotériste. Donc euh vous vous
+[NaN:NaN] ne pourrez pas échapper à cette à cette
+[NaN:NaN] étude. Et s'agissant de coup de pouce
+[NaN:NaN] très géographique, euh bah il se trouve
+[NaN:NaN] que j'en ai déjà donné quelques-uns, en
+[NaN:NaN] tout cas qui n'ont pas un aspect
+[NaN:NaN] géographique mais qui permettent de
+[NaN:NaN] trouver un lieu géographique utile dans
+[NaN:NaN] l'élixir. Question Dalbus, la chasse
+[NaN:NaN] àelle le point Godwin ? Donc sans alors
+[NaN:NaN] je ne peux pas dire là-dessus sans
+[NaN:NaN] trahir le rapport au temps du compte. Ce
+[NaN:NaN] que je peux dire simplement c'est que la
+[NaN:NaN] chasse ne promeut
+[NaN:NaN] ne prome pas de de contenu, on va dire
+[NaN:NaN] ou d'idéologie néfaste et
+[NaN:NaN] destructrice. Donc vous n'aurez pas
+[NaN:NaN] besoin de de vous mettre dans la peau de
+[NaN:NaN] quelqu'un de très inacceptable pour
+[NaN:NaN] progresser dans le jeu. Question 10
+[NaN:NaN] coup. vous a dit que l'autre trésor a
+[NaN:NaN] changé d'endroit au cours du temps et
+[NaN:NaN] récemment également. Je vois deux lieux
+[NaN:NaN] possibles. Si je choisis le mauvais
+[NaN:NaN] parmi ces deux lieux, cela compromet ma
+[NaN:NaN] recherche du mal jumeaux. Même si ces
+[NaN:NaN] deux lieux sont proches. Alors,
+[NaN:NaN] attendez, je vous invite à choisir le
+[NaN:NaN] lieu qui qui était enfin qui reste le
+[NaN:NaN] lieu phare pour cet autre trésor. Donc,
+[NaN:NaN] il n'y a pas de doute à avoir entre ces
+[NaN:NaN] deux lieux. L'autre trésor est
+[NaN:NaN] clairement identifié principalement à un
+[NaN:NaN] de ces deux lieux. Question 10 coup.
+[NaN:NaN] Est-il difficile voir impensable de
+[NaN:NaN] trouver le mal jumeau si on n pas trouvé
+[NaN:NaN] ? Ceci dit, enfin si je pense au de même
+[NaN:NaN] mieux que vous, vous verrez qu'il y a
+[NaN:NaN] pas grand écart géographiquement
+[NaN:NaN] parlant. Est-il difficile ou impensable
+[NaN:NaN] de trouver le mal jumeau si on n pas
+[NaN:NaN] trouvé le mal de l'énigme 31 ne s ne
+[NaN:NaN] sachant quoi chercher ? Oui, ça me
+[NaN:NaN] paraît compliqué mais pas impossible.
+[NaN:NaN] Euh il y a des joueurs qui ont trouvé le
+[NaN:NaN] mal jumeau sans avoir trouvé le mal.
+[NaN:NaN] Donc euh c'est possible. Question d'indy
+[NaN:NaN] 83. C'est plus compliqué mais c'est
+[NaN:NaN] possible puisque il y a plusieurs
+[NaN:NaN] éléments qui permettent de deviner euh
+[NaN:NaN] ce maljumeau. Une fois au spot final la
+[NaN:NaN] pierre découverte, doiton encore
+[NaN:NaN] utiliser le parchemin pour effectuer nos
+[NaN:NaN] derniers pas ou doit-on en déduire et
+[NaN:NaN] comprendre sur place.
+[NaN:NaN] Depuis chez vous, vous pouvez trouver le
+[NaN:NaN] pile poil exact et en plus j'ai laissé
+[NaN:NaN] un indice sur place pour confirmer ce
+[NaN:NaN] pile poil. Question de Loup 341.
+[NaN:NaN] Bien que la phrase su le dernier
+[NaN:NaN] cavalier soit écrite en rouge, celui-ci
+[NaN:NaN] est-il d'une autre couleur ? Je ne peux
+[NaN:NaN] pas répondre à cette question pour des
+[NaN:NaN] raisons évidentes.
+[NaN:NaN] Euh, un taxi pourrait-il m'aider à
+[NaN:NaN] parcourir la bonne lieu ? Non. Question
+[NaN:NaN] 31. Est-ce que la routine vous parle ?
+[NaN:NaN] Non plus. Question d'Albus. Par l'autre
+[NaN:NaN] trésor, tu verras le mal jumeau. À quel
+[NaN:NaN] sens du dictionnaire faut-il prendre ce
+[NaN:NaN] pas ? 1, le lieu intermédiaire, le lieu
+[NaN:NaN] de passage égal en passant par l'autre
+[NaN:NaN] trésor. De en terme de marine indique le
+[NaN:NaN] point ou la direction. 3 ni l'un ni
+[NaN:NaN] l'autre. Et donc la le enfin la bonne
+[NaN:NaN] interprétation est la première que vous
+[NaN:NaN] faites, c'est le lieu intermédiaire, le
+[NaN:NaN] lieu de passage. Question d'indy 83.
+[NaN:NaN] Faut-il éveiller nos sens et se
+[NaN:NaN] concentrer sur le bruit de l'eau ? pas
+[NaN:NaN] forcément sur le bruit de l'eau, mais à
+[NaN:NaN] des moments clés du jeu, si vous tombez
+[NaN:NaN] sur de l'eau, c'est que vous êtes sur la
+[NaN:NaN] bonne piste. Question de Rou : peut-on
+[NaN:NaN] comparer le paragraphe Testament à un
+[NaN:NaN] sommaire ?
+[NaN:NaN] Non, pas vraiment. Même s'il contient
+[NaN:NaN] déjà, on va dire, l'ambiance, le les
+[NaN:NaN] grandes les grandes tendances, mauvaises
+[NaN:NaN] ou bonnes, mais qui vont qui vont vous
+[NaN:NaN] accompagner dans la quête. Question de
+[NaN:NaN] Marcel the Short. L'ordre nouveau qui
+[NaN:NaN] jaillit est-il une menace ? Ça dépend
+[NaN:NaN] pour qui. Mais
+[NaN:NaN] aujourd'hui, nous ne le verrions pas
+[NaN:NaN] comme une menace et et donc je je dirais
+[NaN:NaN] plutôt que non.
+[NaN:NaN] Question de Sherlock
+[NaN:NaN] afin d'avancer de façon sereine dans
+[NaN:NaN] l'énigme 3. Est-il approprié de
+[NaN:NaN] décoriller le texte en latin ? Et X
+[NaN:NaN] numérus besti X circul inferni ? Non,
+[NaN:NaN] euh
+[NaN:NaN] il ne faut pas les décorréléser, ils
+[NaN:NaN] font partie de d'un même élément à
+[NaN:NaN] décrypter ensemble. Vous pouvez les
+[NaN:NaN] décorré pour une phase, on va dire
+[NaN:NaN] intermédiaire, mais le résultat final a
+[NaN:NaN] besoin de mettre ensemble ces éléments.
+[NaN:NaN] Question de la gourgonne, un des
+[NaN:NaN] cavaliers surchiqués a une couleur
+[NaN:NaN] verpale. Pour être plus précis, on
+[NaN:NaN] pourrait dire Jade. Non. Si c'est relié
+[NaN:NaN] à Cachemir faire Jad, non. Question de
+[NaN:NaN] vousou. Alors, cette question concerne
+[NaN:NaN] l'identité du personnage en capuchonné.
+[NaN:NaN] Quand vous dites qu'il est connu de
+[NaN:NaN] tous, parz-vous des citoyens du monde ou
+[NaN:NaN] plus précisément de ceux qui ont
+[NaN:NaN] commencé la chasse. Je pense que la
+[NaN:NaN] plupart d'entre nous avons commencé
+[NaN:NaN] cette quête ne connaissez.
+[NaN:NaN] par le Saint-Germain. Je parlais de vous
+[NaN:NaN] et voilà, je parlais de vous. Question
+[NaN:NaN] de Mabai, question de Maily. Est-ce que
+[NaN:NaN] Dieu a donné à son vrai nom son vrai nom
+[NaN:NaN] à ce mystérieux personnage ? Je ne Non,
+[NaN:NaN] je ne dirai pas ça. Si je vous dis qu'il
+[NaN:NaN] y a des travaux sur la zone finale
+[NaN:NaN] depuis quelques semaines, êtes-vous
+[NaN:NaN] inquiet ?
+[NaN:NaN] parce que je ne pense pas que ce soit le
+[NaN:NaN] cas et que j'ai vérifié les plans
+[NaN:NaN] d'urbanisme avant de enterrer le coffre.
+[NaN:NaN] Question de Lasco bourseoir sur le
+[NaN:NaN] visuel 3, on voit un jeu de cartes qu'on
+[NaN:NaN] peut identifier comme un jeu de pharao.
+[NaN:NaN] Aurait-on pu remplacer ce jeu par un jeu
+[NaN:NaN] de poker sans trop changer son utilité
+[NaN:NaN] pour le jeu ? Et la réponse est non.
+[NaN:NaN] Question d'Alca. Entre Dance of Death et
+[NaN:NaN] Number of the Beast, elle joue amateur
+[NaN:NaN] d'Iron Maiden ? Euh, pas du tout. Je
+[NaN:NaN] connais très mal.
+[NaN:NaN] le métal et euh alors il y a une
+[NaN:NaN] référence métal dans la chasse euh
+[NaN:NaN] notamment s'agissant d'un groupe de post
+[NaN:NaN] métal français de la dernière décennie
+[NaN:NaN] mais c'est juste un clin d'œil et ça n'a
+[NaN:NaN] pas d'incidence sur le jeu. Question
+[NaN:NaN] d'Alucard : Lors qu'il pleut sur la
+[NaN:NaN] terre a-t-il comme origine le détail
+[NaN:NaN] manquant de l'illustration 3 ? Non.
+[NaN:NaN] Question d'Élise. Bonsoir. Le toxin et
+[NaN:NaN] le glace sonnent-il en même temps ? H ça
+[NaN:NaN] n'a pas d'importance. Et certaines
+[NaN:NaN] indications en rouge nous inviteelle à
+[NaN:NaN] effectuer un calcul ?
+[NaN:NaN] C'est une très bonne question et en
+[NaN:NaN] effet pas vrai ça ne va pas vous donner
+[NaN:NaN] un calcul à faire mais ça peut vous
+[NaN:NaN] donner des chiffres très utiles. Y
+[NaN:NaN] a-t-il une ou plusieurs références à
+[NaN:NaN] l'année précieux dans les visuels ? Je
+[NaN:NaN] ne peux pas répondre à cette question.
+[NaN:NaN] Être prêt et être digne, est-ce la même
+[NaN:NaN] chose ? H non, ce n'est pas la même
+[NaN:NaN] chose. Doit-on comprendre que l'on est
+[NaN:NaN] sur une fausse piste quand la bête de
+[NaN:NaN] l'abîme a trompé l'espérance ? Non, vous
+[NaN:NaN] n'êtes pas sur une fausse piste, mais
+[NaN:NaN] simplement c'est une façon de vous aider
+[NaN:NaN] à comprendre de quelle bête il s'agit.
+[NaN:NaN] Question de Vitréolis. Bonsoir cher
+[NaN:NaN] compte. Il y aurait-il des indications
+[NaN:NaN] visuelles pour dénicher les éléments
+[NaN:NaN] calculables de l'énigme 5, 11, lieu et
+[NaN:NaN] cetera ? Merci. Oui, il y en a. Question
+[NaN:NaN] de vousou dans la FAQ7. À la question se
+[NaN:NaN] peut-il qu'après avoir tracé ce que Dieu
+[NaN:NaN] veut, le sépulcre d'Azur se cache dans
+[NaN:NaN] une échelle encore plus grande ? Vous
+[NaN:NaN] avez répondu non. Au contraire, autant
+[NaN:NaN] il est évident que lorsque vous
+[NaN:NaN] mentionnez que l'on est un poids, vous
+[NaN:NaN] dites en réalité qu'il s'agit d'une
+[NaN:NaN] masse. Autant concernant les échelles,
+[NaN:NaN] je suis dans l'expectative.
+[NaN:NaN] Sachant qu'une grande échelle correspond
+[NaN:NaN] à une vue détaillée comme une carte de
+[NaN:NaN] quartier tandis qu'une petite échelle
+[NaN:NaN] offre une vue plus large, confirmez-vous
+[NaN:NaN] votre réponse. Euh
+[NaN:NaN] oui, alors je reprécise. En effet, euh
+[NaN:NaN] quand on me parlait d'échelle plus
+[NaN:NaN] grande, ce que j'ai compris c'est que on
+[NaN:NaN] cherchait à agrandir la zone de
+[NaN:NaN] recherche. Et à l'inverse, ce que je
+[NaN:NaN] répondais dans la dans la question de la
+[NaN:NaN] FAQ7, c'est qu'au contraire, c'est le
+[NaN:NaN] moment de rétrécir. Je comprend du coup
+[NaN:NaN] que en effet par rapport à l'échelle,
+[NaN:NaN] c'est une erreur technique de ma part.
+[NaN:NaN] Question d'Éric. Dans le testament, vous
+[NaN:NaN] écrivez de la Guyenna Champagne de
+[NaN:NaN] l'enjou au Dauphiné. Doit-on y voir un
+[NaN:NaN] la formation d'un symbole 2, une
+[NaN:NaN] délimitation de région française
+[NaN:NaN] d'intérêt pour cette chasse 3. Un point
+[NaN:NaN] précis à trouver à leur intersection. 4
+[NaN:NaN] rien de tout ça. Deux choses. La
+[NaN:NaN] première c'est que le terrain de jeu
+[NaN:NaN] principal va se trouver en France et la
+[NaN:NaN] seconde c'est qu'en effet ces régions
+[NaN:NaN] partagent une passion commune qui peut
+[NaN:NaN] vous guider dans la chasse. Question de
+[NaN:NaN] Step : "Bonjour Étienne. Dans mon
+[NaN:NaN] cheminement, je découvre un certain
+[NaN:NaN] moment par hasard non loin de m tracer
+[NaN:NaN] le dieu Janus. Je vois qu'il a été
+[NaN:NaN] évoqué dans une FAQ concernant la
+[NaN:NaN] chouette. Est-il également à prendre en
+[NaN:NaN] considération dans l'exire comme Line ?
+[NaN:NaN] Alors ce que j'avais dû dire c'est qu'en
+[NaN:NaN] effet pour les chouetteurs qui se
+[NaN:NaN] cachent parmi nous, il y a une piste qui
+[NaN:NaN] mène à Haut où il y a un temple dédié à
+[NaN:NaN] Janus mais ça n'a pas de lien avec
+[NaN:NaN] l'élixir et de façon générale l'élixir a
+[NaN:NaN] très peur avec avec la chouette en tout
+[NaN:NaN] cas dans les thèmes et dans et dans les
+[NaN:NaN] les décryptages utilisés. J'essaie
+[NaN:NaN] justement de ne pas copier des chasses
+[NaN:NaN] qui ont pu être créées pour pour que la
+[NaN:NaN] la chasse soit unique. Question de
+[NaN:NaN] l'enade dans Visuel 4, la dentition du
+[NaN:NaN] crâne à terre est-elle seulement un
+[NaN:NaN] effet de la dessinatrice ou a-t-elle une
+[NaN:NaN] importance ? Carte de parcelle ? Euh
+[NaN:NaN] non, ça n'a pas d'importance. Question
+[NaN:NaN] de robuste Tagir, une solution 100 %
+[NaN:NaN] complète sur les six énigmes. C'est un
+[NaN:NaN] peu ce que j'expliquais dans le
+[NaN:NaN] propoliminaire. Donc les quatre
+[NaN:NaN] premières, oui, la 5 à part deux
+[NaN:NaN] éléments, donc à savoir le lieu familier
+[NaN:NaN] et l'ordre nouveau, mais sinon tout le
+[NaN:NaN] reste a été trouvé. Et la 6 par contre,
+[NaN:NaN] c'est très c'est très parcellaire, donc
+[NaN:NaN] non pas pour la 6. Question de Stef :
+[NaN:NaN] "Cher compte concernant illustration 6,
+[NaN:NaN] l'épée et l'impact de celle-ci aurait pu
+[NaN:NaN] être d'une autre couleur." Alors,
+[NaN:NaN] attendez, je reprends juste le visuel.
+[NaN:NaN] L'épée, non, puisque c'est la même que
+[NaN:NaN] sur les autres illustrations. Et et
+[NaN:NaN] bien, il n'y a pas encore d'impact. Donc
+[NaN:NaN] l'illustration 6 ne montre pas encore un
+[NaN:NaN] impact. Question de JEP. Un décryptage
+[NaN:NaN] nous permet-il d'identifier la date de
+[NaN:NaN] notre dernier combat ? H
+[NaN:NaN] oui h je ne sais pas si on peut parler
+[NaN:NaN] de décryptage mais vous connaissez en
+[NaN:NaN] effet enfin vous devez connaître la date
+[NaN:NaN] de ce dernier combat. Question d'Albus.
+[NaN:NaN] Y a-t-il un lien entre le jeu d'échec,
+[NaN:NaN] la configuration des pièces et un
+[NaN:NaN] certain envahisseur viking ? H non.
+[NaN:NaN] Question d'Éric. Qu'avez-vous aimé un
+[NaN:NaN] peu beaucoup passionnément à la folie ?
+[NaN:NaN] Pas du tout. J'espère que vous parlez du
+[NaN:NaN] compte et si ça mentionne le compte.
+[NaN:NaN] Oui, le compte à aimer des femmes. Le
+[NaN:NaN] compte a une vie sentimentale
+[NaN:NaN] passionnante. Question de Lasco pour mon
+[NaN:NaN] dernier combat, mon adversaire est-il
+[NaN:NaN] localisable par un nombre mythique ?
+[NaN:NaN] Localisable, je ne dirais pas ça, mais
+[NaN:NaN] en l'occurrence l'adversaire peut être
+[NaN:NaN] parfois associé à un nombre. Question de
+[NaN:NaN] Step : "Is sont nos premiers guides. En
+[NaN:NaN] poussant le décryptage, sont-ils
+[NaN:NaN] également nos derniers guides en
+[NaN:NaN] revenant sur nos pas ?" C'est une très
+[NaN:NaN] bonne question. C'est une excellente
+[NaN:NaN] question et je ne peux pas répondre.
+[NaN:NaN] Question de Sherlock. La dernière case
+[NaN:NaN] du jeu de Pharao côté personnage est
+[NaN:NaN] vide. Y a-t-il une raison derrière cela
+[NaN:NaN] où c'était juste pour éviter de faire
+[NaN:NaN] doublon avec la case d'en face ? Alors,
+[NaN:NaN] la dernière case du jeu de Pharao est
+[NaN:NaN] vide.
+[NaN:NaN] Euh c'est juste que vous avez 13 cartes
+[NaN:NaN] dans un jeu et pas 14. Donc sinon ce n'a
+[NaN:NaN] pas ça ne va pas vous aider à faire un
+[NaN:NaN] décryptage. Le mal se trouve-t-il à
+[NaN:NaN] l'endroit du déluge ou est-ce deux
+[NaN:NaN] notions différentes ? Je reprends juste
+[NaN:NaN] l'indice en question. Mon doigt toisant
+[NaN:NaN] le morse et l'autre le déluge de feu
+[NaN:NaN] Jérette la psalmodiant.
+[NaN:NaN] Je réfléchis si je peux répondre à votre
+[NaN:NaN] question. C'est plutôt le déluge,
+[NaN:NaN] c'est plutôt le morse qui est relié à
+[NaN:NaN] autre chose. Mais je ne parle pas du
+[NaN:NaN] mal. En tout cas, ce n'est pas explicité
+[NaN:NaN] dans l'indice. Question de 3. Fifi et
+[NaN:NaN] Loulou connaissent-ils aussi bien la
+[NaN:NaN] bonne question et la réponse est je ne
+[NaN:NaN] sais pas s'ils la connaissent aussi bien
+[NaN:NaN] mais en tout cas ils en sont ils en sont
+[NaN:NaN] un peu plus éloignés que Riri. Question
+[NaN:NaN] 4. Le pharao se suffit-t-il à lui-même
+[NaN:NaN] ou fait-il ou faut-il continuer ? Non,
+[NaN:NaN] on a pas besoin de de continuer
+[NaN:NaN] le jeu qui se présente sur
+[NaN:NaN] l'illustration 3. Je ne crois pas avoir
+[NaN:NaN] précisé de quel jeu il s'agissait.
+[NaN:NaN] Question d'Indy, je me trouve au repère
+[NaN:NaN] final. Si je le déplace, aurait-il une
+[NaN:NaN] incidence pour arriver sur le coffre ?
+[NaN:NaN] Bah ce qui compte, c'est l'endroit où
+[NaN:NaN] vous creusez. Donc le fait de déplacer
+[NaN:NaN] un repère final ne va pas changer
+[NaN:NaN] grand-chose. Question Devocrain à la
+[NaN:NaN] question : Y a-t-il d'autres lettres
+[NaN:NaN] rouges à trouver dans le poème ? Vous
+[NaN:NaN] avez répondu, c'est une très bonne
+[NaN:NaN] question et je vous répondrai que oui.
+[NaN:NaN] C'est signific davantage découvrir que
+[NaN:NaN] simplement les rêres les lettres rus su
+[NaN:NaN] b dans les six strophes plus inri où
+[NaN:NaN] est- une manière subtile indiqué que
+[NaN:NaN] certains des textes rouges dans les sont
+[NaN:NaN] en réalité des alexandrins et font aussi
+[NaN:NaN] partie du poème. Et je ne peux répondre
+[NaN:NaN] à aucune des deux questions désolé.
+[NaN:NaN] Question de Stef Bonsoir cher compte
+[NaN:NaN] dans les testament inig poèm inri et
+[NaN:NaN] fin. Est-ce qu'une seule case est à
+[NaN:NaN] trouver dans le quadrillage de
+[NaN:NaN] l'illustration 4 ou plusieurs ? Merci
+[NaN:NaN] bien. Je ne peux pas répondre non plus.
+[NaN:NaN] Partez d'un présupposé que je ne peux
+[NaN:NaN] pas
+[NaN:NaN] confirmer ou infirmer. Avec les question
+[NaN:NaN] de GP les lettres en rouge cachées dans
+[NaN:NaN] les animes sont-elles utiles pour
+[NaN:NaN] découvrir le lieu du dernier combat ou
+[NaN:NaN] plus précisément pour découvrir le lieu
+[NaN:NaN] de la cache ? Pareil, la question est un
+[NaN:NaN] peu trop explicite et concerne un point
+[NaN:NaN] beaucoup trop sensible et avancé dans le
+[NaN:NaN] jeu. Donc je ne peux pas répondre.
+[NaN:NaN] Question d'Albus dans chasse. Tous nos
+[NaN:NaN] points de départ de mesure sur une carte
+[NaN:NaN] doivent-ils être extrêmement précis ou
+[NaN:NaN] peut-on se permettre pour parler par
+[NaN:NaN] métaphor de planter son drapeau à peu
+[NaN:NaN] près au milieu du village ? Je parle
+[NaN:NaN] pour les étapes avant de passer une
+[NaN:NaN] échelle plus locale. Le degré de
+[NaN:NaN] précision va vous être proposé dans le
+[NaN:NaN] jeu. C'est un peu comme les noms
+[NaN:NaN] significatifs en physique chimie. Si on
+[NaN:NaN] vous demande de d'aller jusqu'à deux
+[NaN:NaN] chiffres après la virgule, et bien il
+[NaN:NaN] faudra prendre ce même degré de
+[NaN:NaN] précision dans vos résultats finaux. Et
+[NaN:NaN] sinon bah en effet si si par exemple
+[NaN:NaN] vous trouvez uniquement une ville, vous
+[NaN:NaN] pouvez prendre à peu près n'importe quel
+[NaN:NaN] point de cette ville, ça ne va pas
+[NaN:NaN] changer le le résultat qui est su
+[NaN:NaN] puisqu'il y aura pas eu une précision
+[NaN:NaN] particulière qui vous aurait été
+[NaN:NaN] demandée. Donc l'idéal c'est de prendre
+[NaN:NaN] un point idéalement au milieu de cette
+[NaN:NaN] ville. Question d'Albus dans la chasse
+[NaN:NaN] tous nos points de départ de mesure sur
+[NaN:NaN] une carte pardon ça je viens d'y
+[NaN:NaN] répondre. Hello euh s'il y avait une
+[NaN:NaN] inentation et que le cours d'une rivière
+[NaN:NaN] ou d'un ruisseau lié à la chat
+[NaN:NaN] changeait, ce qui faisait aussi devi un
+[NaN:NaN] sentier de randoau qui longeait cette
+[NaN:NaN] rivière et Google M se mettait à jour en
+[NaN:NaN] fonction de ça. Est-ce que tous les
+[NaN:NaN] repères pour résoudre la chasse serait
+[NaN:NaN] quand même encore là ? Euh
+[NaN:NaN] je ne peux pas répondre à cette question
+[NaN:NaN] mais j'ai pris mes mes précautions pour
+[NaN:NaN] que ce genre d'incidence n'arrive pas.
+[NaN:NaN] Question de vousou. J'ai une question
+[NaN:NaN] concernant la partie d'échec. Sachant
+[NaN:NaN] qu'un joueur doit obligatoirement
+[NaN:NaN] soustraire son roi de l'échec avant le
+[NaN:NaN] coup de l'adversaire. La position qui
+[NaN:NaN] apparaît sur visuel 2 semble donc
+[NaN:NaN] impossible. Si le roi noir est en
+[NaN:NaN] situation d'échec, ça ne peut pas être
+[NaN:NaN] au blanc de jouer. Si le roi blanc est
+[NaN:NaN] en situation d'échec, ça ne peut pas
+[NaN:NaN] être au noir de jouet. Pouvez-vous
+[NaN:NaN] confirmer qu'au moins l'un des deux rois
+[NaN:NaN] n'est pas en situation d'échec ? Et oui,
+[NaN:NaN] je vous confirme.
+[NaN:NaN] Je vous confirme qu'aucun des rois n'est
+[NaN:NaN] en position d'échec. Question de Lasco
+[NaN:NaN] 1. Dans Hinry et tracer ce que Dieu
+[NaN:NaN] veut, faut-il se limiter au tracés
+[NaN:NaN] géométriques ou bien une rue, une route,
+[NaN:NaN] un itinéraire peuvent-ils faire aussi
+[NaN:NaN] partie des tracés dans l'esprit du jeu ?
+[NaN:NaN] Il s'agira plutôt de tracer en ligne
+[NaN:NaN] droite. Question d'Evocrain. Vous avez
+[NaN:NaN] dit dans une FAQ précédente qu'il y
+[NaN:NaN] avait encore d'autres lettres rouges à
+[NaN:NaN] trouver dans le poème. Vous avez dit
+[NaN:NaN] aussi que la ponctuation n'a pas
+[NaN:NaN] beaucoup d'importance, mais est-ce
+[NaN:NaN] qu'elle en a quand même un peu ? Si on
+[NaN:NaN] retirait toute la ponctuation du poème,
+[NaN:NaN] c'est les apostrophes, les virgules, les
+[NaN:NaN] points d'exclamation, les points
+[NaN:NaN] d'interrogation et les points, est-ce
+[NaN:NaN] qu'il serait quand même possible de
+[NaN:NaN] trouver ces autres lettres rouges
+[NaN:NaN] cachées ? Oui, je pense, mais ça
+[NaN:NaN] pénaliserait la compréhension
+[NaN:NaN] du poème ainsi que sa musicalité.
+[NaN:NaN] Question d'Albus, pouvez-vous clarifier
+[NaN:NaN] comme vous l'avez fait pour sous
+[NaN:NaN] Saintestèf égale au sud de sous l'œuvre
+[NaN:NaN] du pape, on doit bien chercher au sud de
+[NaN:NaN] ou en dessous de l'œuvre du pape. C'est
+[NaN:NaN] plutôt grâce à l'intervention et je ne
+[NaN:NaN] parle pas de pape, je parle d'évêque
+[NaN:NaN] universel. Donc c'est grâce à
+[NaN:NaN] l'intervention d'évêque universel.
+[NaN:NaN] Question de Toto 1664.
+[NaN:NaN] Vous diriez que le sépulcre d'azur se sé
+[NaN:NaN] à lui-même ou le fait qu'il apporte la
+[NaN:NaN] vie éternelle à toute son importance.
+[NaN:NaN] C'est plus le fait qu'il apporte la vie
+[NaN:NaN] éternelle à toute son importance. Oui,
+[NaN:NaN] bien sûr. Un trou dans l'aile ou la
+[NaN:NaN] cuisse ou ni l'un ni l'autre. Je vous
+[NaN:NaN] confirme que Louis Funesse est très
+[NaN:NaN] étranger à la chasse je ne sais pas à
+[NaN:NaN] quoi vous répondre.
+[NaN:NaN] Si le sépulcre c'est le coffre c'est
+[NaN:NaN] plutôt à utiliser sur la map ou sur les
+[NaN:NaN] visuels. Euh c'est-à-dire là pour le
+[NaN:NaN] coup je n'ai pas compris la question.
+[NaN:NaN] Elles sont trinité donc forcément des
+[NaN:NaN] noms féminins. C'est plutôt que ce que
+[NaN:NaN] vous allez
+[NaN:NaN] euh tracer. C'est un terme féminin en
+[NaN:NaN] effet. Cher compte intrigué par des
+[NaN:NaN] arbres en passant en Street View. Il me
+[NaN:NaN] semble bien reconnaître le lieu du
+[NaN:NaN] visuel. 1 Lares. Fausse route ou
+[NaN:NaN] confirmation. Que conseilleriez-vous à
+[NaN:NaN] ce stade du jeu ? Je pense qu'il s'agit
+[NaN:NaN] plutôt d'une fausse route. Question
+[NaN:NaN] toujours de Toto. Une fois avoir tracé
+[NaN:NaN] ce que Dieu veut, sommes-nous assez
+[NaN:NaN] proche du coffre ou nous
+[NaN:NaN] rapprochons-nous encore plus avec la
+[NaN:NaN] Trinité ? Et bien, c'est la même chose.
+[NaN:NaN] Question de Toto. Est-ce qu'une certaine
+[NaN:NaN] confréie pourrait avoir un lien avec le
+[NaN:NaN] fil rouge ? Je ne peux pas répondre à
+[NaN:NaN] cette question. Est-ce que les grands
+[NaN:NaN] Bordeaux ont raison de cette chasse ?
+[NaN:NaN] une chasse sur le vin sans mentionner
+[NaN:NaN] certains domaines viticoles majeurs dans
+[NaN:NaN] une région majeure, ce serait un peu un
+[NaN:NaN] crime de l'ise majesté donc je ne me le
+[NaN:NaN] serai pas permis. À parle-ton de combat
+[NaN:NaN] où le mot duel serait plus approprié ?
+[NaN:NaN] Les deux fonctionnent mais je trouve que
+[NaN:NaN] le terme de combat
+[NaN:NaN] est tout de même un peu plus approprié
+[NaN:NaN] puisque il n'y a pas eu de provocation
+[NaN:NaN] en duel. C'est vraiment un combat à mort
+[NaN:NaN] existentiel. question et pas pour
+[NaN:NaN] simplement laver un honneur. Une déesse
+[NaN:NaN] a-t-elle sa place dans non la trinité
+[NaN:NaN] dévoile quelque chose mais ce serait
+[NaN:NaN] plutôt entre sur ou dans quelque chose.
+[NaN:NaN] Pareil, je n'ai pas tout à fait compris
+[NaN:NaN] le sens de la question. Question
+[NaN:NaN] d'Evocrain : s'il n'y a vraiment plus de
+[NaN:NaN] lettre rouge que Russupette
+[NaN:NaN] a trouvé dans les croes du poème,
+[NaN:NaN] pouvez-vous me dire si vous avez vu la
+[NaN:NaN] bonne méthode d'extraction
+[NaN:NaN] sur le Discord. Alors, sur le Discord,
+[NaN:NaN] je ne sais pas euh mais euh oui euh
+[NaN:NaN] plusieurs joueurs ont déjà trouvé euh
+[NaN:NaN] euh d'autres d'autres lettres et
+[NaN:NaN] d'autres éléments en rouge importants.
+[NaN:NaN] Question de vousou euh vous indiquez en
+[NaN:NaN] FAQ15 que la croix sur l'épaule du
+[NaN:NaN] personnage est rouge et non pas rose.
+[NaN:NaN] Peut-être êtes-vous ou moi daltonien
+[NaN:NaN] sans le savoir. Écoutez, j'espère pas.
+[NaN:NaN] Euh pour cela et considérant
+[NaN:NaN] l'importance des couleurs, pouvez-vous
+[NaN:NaN] clarifier ce point en confirmant ou en
+[NaN:NaN] firmant les propositions suivantes ?
+[NaN:NaN] Alors, visuel 1, la croix sur l'épaule
+[NaN:NaN] du personnage. Le ciel et les fleurs
+[NaN:NaN] sont rouges. Le ciel est rose, rose
+[NaN:NaN] rouge. Les fleurs sont plutôt roses et
+[NaN:NaN] la croix est rouge. Je reconnais, je
+[NaN:NaN] vais dans l'autre sens que en effet, il
+[NaN:NaN] n'y a pas de grande nuance entre la
+[NaN:NaN] couleur de la croix et celle du ciel et
+[NaN:NaN] des fleurs. Mais pour les besoins de la
+[NaN:NaN] compréhension de la croix, je vous
+[NaN:NaN] confirme que c'est une croix rouge.
+[NaN:NaN] Voilà. Visuel 2, se sol un cavalier et
+[NaN:NaN] un élément du blason rouge. Oui, tout à
+[NaN:NaN] fait. Visuel 3, aucun élément n'est
+[NaN:NaN] rouge. Vous avez quand même un rouge
+[NaN:NaN] tendant vers le violet
+[NaN:NaN] sur un des personnages. Question sur
+[NaN:NaN] visuel 4. Tous les éléments ayant une
+[NaN:NaN] teinte proche du liquide, du calis et du
+[NaN:NaN] fagon sont rouges. Oui, tout à fait. Euh
+[NaN:NaN] question sur visuel 5, aucun élément
+[NaN:NaN] n'est rouge. En effet, il y a la Terre
+[NaN:NaN] qui est un peu ocre mais pas vraiment
+[NaN:NaN] rouge. Et si on considère que la croix
+[NaN:NaN] sur l'épaule 1 est rouge, alors deux
+[NaN:NaN] météor et la partie supérieure de
+[NaN:NaN] l'Estre sont rouges. Et oui, elles sont
+[NaN:NaN] plutôt roses en l'occurrence. Voilà.
+[NaN:NaN] Question de Marlot. Comment avez-vous
+[NaN:NaN] prévu les choses lorsque le coffre sera
+[NaN:NaN] déterré ? Vous allez retirer dans la
+[NaN:NaN] journée dans le salon annonce de Discord
+[NaN:NaN] ou bien est-ce que vous allez prendre le
+[NaN:NaN] temps de bien vérifier la solution ? Et
+[NaN:NaN] donc nous serons au courant une semaine
+[NaN:NaN] après que vous aurez reçu le coup de
+[NaN:NaN] téléphone fatidique. Bah ça dépend à
+[NaN:NaN] quel point ce qui m'est envoyé est
+[NaN:NaN] précis. Si c'est sans ambiguïés précis,
+[NaN:NaN] que je reçois un coup de fil et que
+[NaN:NaN] visiblement la personne est en
+[NaN:NaN] possession du coffre et de l'élément que
+[NaN:NaN] celui-ci contient, vous serez averti
+[NaN:NaN] dans la foulée. Si c'est un peu plus
+[NaN:NaN] flou, bah je prendrai en effet le temps
+[NaN:NaN] de de vérifier. Question de Marlot. Ré,
+[NaN:NaN] Fifi et Loulou ont chacun un bateau de
+[NaN:NaN] couleur différentes. C'est couleur des
+[NaN:NaN] pantelles. Un de la représentation d'un
+[NaN:NaN] objet, deux d'un liquide, trois d'un
+[NaN:NaN] concept abstrait, quatre d'autres choses
+[NaN:NaN] et 5 n'est pas lié au même type
+[NaN:NaN] d'éléments pour les trois bateaux. Je
+[NaN:NaN] euh ça n'est ça me semble c'est lié au
+[NaN:NaN] même type d'éléments pour les trois
+[NaN:NaN] bateaux.
+[NaN:NaN] Je je mais je ne vois pas la bonne
+[NaN:NaN] réponse sur votre quatre premières
+[NaN:NaN] propositions. Donc je dirais autre chose
+[NaN:NaN] que un liquide, un concept ou la
+[NaN:NaN] représentation d'un objet. Question de
+[NaN:NaN] Firence. Bonjour Étienne sur
+[NaN:NaN] illustration 5. L'œil joue-il sur un
+[NaN:NaN] concept de symétrie ? Alors si par objet
+[NaN:NaN] vous vous parlez de
+[NaN:NaN] couleur sur un visuel, oui mais je je ne
+[NaN:NaN] sais pas si on peut vraiment parler
+[NaN:NaN] d'objets. Bonjour Étienne sur
+[NaN:NaN] illustration 5, l'œil joue-il un sur un
+[NaN:NaN] concept de symétrie ? Ça n'est pas très
+[NaN:NaN] important. Ce qui compte, c'est plutôt
+[NaN:NaN] de déterminer
+[NaN:NaN] de quel œil il s'agit. Mais en effet,
+[NaN:NaN] vous avez raison, cet œil est utilisé
+[NaN:NaN] dans certains codes secrets. Question de
+[NaN:NaN] GP : Vader Rétro s'applique-t-il
+[NaN:NaN] seulement à notre personnage ou à toute
+[NaN:NaN] sa troupe ? Euh, ça s'applique à un
+[NaN:NaN] personnage, un protagoniste en
+[NaN:NaN] particulier. Question de Mitrain.
+[NaN:NaN] Bonjour, pourriez-vous me conseiller
+[NaN:NaN] pour le final ? On est sûr, on n'est pas
+[NaN:NaN] plus à l'aise avec une carte de
+[NaN:NaN] randonnée que l'on trouve également sur
+[NaN:NaN] internet. Euh
+[NaN:NaN] vous vous pouvez tout résoudre depuis
+[NaN:NaN] chez vous. Donc euh vous n'avez pas
+[NaN:NaN] besoin de vous rendre sur place pour
+[NaN:NaN] trouver le pile poil. C'est tout ce que
+[NaN:NaN] je peux dire. Après, je pourrais pas
+[NaN:NaN] vous donner euh les éléments
+[NaN:NaN] supplémentaires que vous pourriez
+[NaN:NaN] trouver en ligne pour euh pour vous
+[NaN:NaN] aider à bien localiser ce pilepoil.
+[NaN:NaN] Question de Marlot. Pictogramme de
+[NaN:NaN] l'énigme 1. Le fait que la teinte de
+[NaN:NaN] l'arbre soit claire alors que celle des
+[NaN:NaN] autres éléments est plutôt sombre.
+[NaN:NaN] Est-il important ? Non. Au niveau des
+[NaN:NaN] décryptages visuels, si je ne trouve
+[NaN:NaN] rien de rien, euh ça me désespère un
+[NaN:NaN] peu. Vous nous avez dit que les méthodes
+[NaN:NaN] utilisées seront indiquées dans le
+[NaN:NaN] perchemin dont je m'intéressa à
+[NaN:NaN] l'histoire et aux personnes qui ont
+[NaN:NaN] conçu ces méthodes de décryptage
+[NaN:NaN] classique pour m'aider à les trouver ou
+[NaN:NaN] pas nécessairement. Oui, mais si ce
+[NaN:NaN] n'est pas indiqué, c'est que ça peut il
+[NaN:NaN] y aura forcément un élément qui doit
+[NaN:NaN] vous faire ticker ou qui vous doit vous
+[NaN:NaN] inviter à revoir cet élément plusieurs
+[NaN:NaN] fois pour comprendre qu'il a une
+[NaN:NaN] importance particulière. Et comme il
+[NaN:NaN] s'agit de visuel, il peut pas y avoir un
+[NaN:NaN] texte euh qui euh qui vous invite
+[NaN:NaN] explicitement à creuser euh un élément
+[NaN:NaN] du visuel en particulier. Donc c'est
+[NaN:NaN] suggéré. Question de Marlot,
+[NaN:NaN] illustration 3, jeu du Pharao. Euh je ne
+[NaN:NaN] précise toujours pas qu'il s'agit d'un
+[NaN:NaN] jeu du pharao mais soit. Notre carte du
+[NaN:NaN] valet est vraiment déformée par rapport
+[NaN:NaN] à celle du roi et de la reine. Est-ce
+[NaN:NaN] une liberté de l'illustratrice ? Oui, ça
+[NaN:NaN] n'a pas beaucoup d'importance.
+[NaN:NaN] J'ai envie de parcourir ces cartes du
+[NaN:NaN] pharao. Je commence par la première
+[NaN:NaN] colonne de haut en bas, puis je passe à
+[NaN:NaN] la deuxième colonne en commençant par le
+[NaN:NaN] haut car c'est ce qui me paraît le plus
+[NaN:NaN] naturel. Suis-je en train de me tromper
+[NaN:NaN] de sens ? H Non, et ce n'est pas très
+[NaN:NaN] important. Avez-vous conçu une fausse
+[NaN:NaN] piste dès l'introduction ? Vous n'avez
+[NaN:NaN] pas été aussi maavellique quand même.
+[NaN:NaN] Alors en l'occurrence si les fausses
+[NaN:NaN] pistes les fausses pistes sont
+[NaN:NaN] travaillées pour irriguer le jeu dans
+[NaN:NaN] son intégralité. Alors surtout certaines
+[NaN:NaN] fausses pistes qui qui m'ont mis du
+[NaN:NaN] temps à à faire en sorte qu'elle soit
+[NaN:NaN] suffisamment
+[NaN:NaN] euh séduisante et cohérente. Donc en
+[NaN:NaN] effet, il peut y avoir des éléments qui
+[NaN:NaN] étaiillent ces fausses pistes à tout
+[NaN:NaN] stade du jeu et d'autres éléments qui
+[NaN:NaN] vont permettre à un moment d'écarter ces
+[NaN:NaN] fausses pistes. Évidemment, le nouvel
+[NaN:NaN] ordre qui gène leigme 5 correspond-il à
+[NaN:NaN] une première ? Je ne sais pas ce que
+[NaN:NaN] vous entendez par première, donc je ne
+[NaN:NaN] répondrai pas en attendant d'avoir une
+[NaN:NaN] question peut-être un peu plus précise.
+[NaN:NaN] Cavalier, question d'ammonie aurait-il
+[NaN:NaN] pu être sur un damier ? Non. D'après vos
+[NaN:NaN] sondages, direz-vous qu'au moins un
+[NaN:NaN] tiers des joueurs vous ont donné qui
+[NaN:NaN] vous ont donné le bon cheval pour 3 ont
+[NaN:NaN] vraiment trouvé le bon. Oui oui oui,
+[NaN:NaN] tout à fait. Ça a été bien trouvé.
+[NaN:NaN] Question de Cyril. Bonjour, je pense
+[NaN:NaN] avoir trouvé l'arbre du premier dessin.
+[NaN:NaN] Cet arbre est-il très proche de la
+[NaN:NaN] résolution de l'énigme ? Et si ce n'est
+[NaN:NaN] pas le cas, faut-il encore changer de
+[NaN:NaN] zone en suivant toujours la même
+[NaN:NaN] direction ?
+[NaN:NaN] Vous n'aurez pas besoin de retrouver un
+[NaN:NaN] arbre et dans le monde physique, ce
+[NaN:NaN] n'est pas à ça que sert cet arbre dans
+[NaN:NaN] le visuel. Question de Marlot, est-il
+[NaN:NaN] nécessaire de remettre les chiqu dans le
+[NaN:NaN] bon sens ? Si oui, est-il intéressant de
+[NaN:NaN] comprendre pourquoi il était disposé
+[NaN:NaN] ainsi hormis pour le cryptage de mon
+[NaN:NaN] cheval ? Cela nous servira-t-il plus
+[NaN:NaN] tard dans une autre par exemple ? Et je
+[NaN:NaN] ne peux pas répondre à cette question
+[NaN:NaN] mais en effet vous avez raison de vous
+[NaN:NaN] poser des questions sur
+[NaN:NaN] cet échiquier et sa disposition.
+[NaN:NaN] Question de Marlot question de Moche
+[NaN:NaN] Tabaille. Alors une série de questions.
+[NaN:NaN] Doit-on trouver un méchant derrière le
+[NaN:NaN] mal ? Non. Question sur les indications
+[NaN:NaN] Nord et Orient peuvent-elles être
+[NaN:NaN] utilisées sans arrière-pensé nord-est ou
+[NaN:NaN] faut-il s'en méfier car une modification
+[NaN:NaN] peut-être à prendre en compte ? Je ne
+[NaN:NaN] vois pas trop où vous voulez en venir
+[NaN:NaN] mais par Orient en effet, il faut plutôt
+[NaN:NaN] comprendre est si c'est une indication
+[NaN:NaN] géographique parce que l'Orient peut
+[NaN:NaN] aussi définir d'autres choses surtout
+[NaN:NaN] dans le contexte des thèmes de la
+[NaN:NaN] chasse. Partons dans l'idée que tout
+[NaN:NaN] demeure m'amène à deux personnages.
+[NaN:NaN] Dois-je m'intéresser à leur histoire, à
+[NaN:NaN] des lieux qui leur sont associés, à
+[NaN:NaN] l'endroit où je les ai trouvé ? Qu'en
+[NaN:NaN] faire ? Je ne peux pas répondre à cette
+[NaN:NaN] question. Est-ce que trois grappes en
+[NaN:NaN] argent peuvent m'aider ? Non, mais trois
+[NaN:NaN] grappes en or. Oui. Énme 2, début de la
+[NaN:NaN] 3è ligne. RX aurait-il pu être écrit R6
+[NaN:NaN] ou R8 ? Ou fait-il absolument que ce
+[NaN:NaN] soit RX ? Non, c'est mieux que ce soit
+[NaN:NaN] R6.
+[NaN:NaN] Euh, pardon RX. Euh
+[NaN:NaN] pour le mal et le mal jumeau, on cherche
+[NaN:NaN] quelque chose de l'échelle d'une ville,
+[NaN:NaN] d'un quartier, d'un bâtiment, d'un lie.
+[NaN:NaN] Vous cherchez un un endroit assez
+[NaN:NaN] précis. Question sur Énigme 4. À
+[NaN:NaN] l'Orient nous aide-t-il à faire le choix
+[NaN:NaN] entre plusieurs autres trésors ? On nous
+[NaN:NaN] donne simplement la direction où
+[NaN:NaN] chercher l'autre trésor. Ça vous donne
+[NaN:NaN] une direction. Est-ce qu'une célèbre
+[NaN:NaN] formule latine d'un illustre empereur
+[NaN:NaN] romain peut nous aider à miser sur le
+[NaN:NaN] bon cheval ? Pas vraiment non. La
+[NaN:NaN] chambre cachée et la pierre d'attente
+[NaN:NaN] pointent-il des lieux familiers pour
+[NaN:NaN] notre personnage ? Non. Admettons que
+[NaN:NaN] j'ai trouvé la pierre d'attente.
+[NaN:NaN] Patience. Je ne comprends pas bien ce
+[NaN:NaN] que je dois faire. Viser le lieu
+[NaN:NaN] familier mais depuis la pierre
+[NaN:NaN] d'attente. Regarder en tant que pèlerin
+[NaN:NaN] quein patience. Ça veut simplement dire
+[NaN:NaN] que ce n'est pas la pierre finale. Une
+[NaN:NaN] fois le dernier cercle tracé doit-on se
+[NaN:NaN] promener autour du cercle où une
+[NaN:NaN] indication nous est donnée pour regarder
+[NaN:NaN] directement dans la bonne direction.
+[NaN:NaN] Non, vous allez devoir trouver le bon
+[NaN:NaN] endroit sur le rayon. Peut-on éliminer
+[NaN:NaN] de nos recherches finales les enceintes
+[NaN:NaN] de bâtiment ? Si c'est un lieu privé ou
+[NaN:NaN] dangereux ou inaccessible ? Oui. Une
+[NaN:NaN] question de Vin pouvez-vous dire état
+[NaN:NaN] d'avancement des chercheurs qui envoyé
+[NaN:NaN] une instion ? Du coup, je vous invite à
+[NaN:NaN] à suivre le début de cette pour la
+[NaN:NaN] partie pour mettre. Question de Lascoin.
+[NaN:NaN] Si j'ai bien compris, l'eau a une grande
+[NaN:NaN] importance dans ce jeu. Est-il
+[NaN:NaN] intéressant d'être sur un lieu de son
+[NaN:NaN] partage ? Et c'est une très bonne
+[NaN:NaN] question. Donc voilà, je peux simplement
+[NaN:NaN] dire que c'est une très bonne question
+[NaN:NaN] mais je pourrais pas étayer. Pourquoi
+[NaN:NaN] alors que je vois ? Et bien je ne
+[NaN:NaN] comprends plus. J'ai bien le lieu de la
+[NaN:NaN] bataille, le coffre mais pas le trésor
+[NaN:NaN] tant recherché. C'est terriblement
+[NaN:NaN] frustrant. Le message robotisé.
+[NaN:NaN] Est-il possible de mettre un pourcentage
+[NaN:NaN] de réit par exemple sur 100 où on
+[NaN:NaN] saurait au moins si on doit tout
+[NaN:NaN] reprendre aussiement pouruser à une
+[NaN:NaN] réelle valeur ? Non, ce serait ce serait
+[NaN:NaN] beaucoup trop compliqué vu le la
+[NaN:NaN] quantité de mail que je reçois. Je je
+[NaN:NaN] pourrais pas faire ce travail sur chaque
+[NaN:NaN] envoi. Euh, j'en suis navré. Mais sachez
+[NaN:NaN] que je reçois tous vos enfin tous vos
+[NaN:NaN] mails. Donc si la bonne solution euh
+[NaN:NaN] arrive, vous vous serez appelé. Question
+[NaN:NaN] de Marlot he qu'est-ce que Psalmodit la
+[NaN:NaN] personne qui parle ? Quelque chose en
+[NaN:NaN] lien avec la couronne ? Non, Psalmodit
+[NaN:NaN] c'est une référence à Jérette. Jéry
+[NaN:NaN] Madem plutôt et c'est ce terme là qui
+[NaN:NaN] qui pourrait être mal prononcé. Question
+[NaN:NaN] de Marlot, nous savons par la FAQ 16
+[NaN:NaN] qu'il y a un endroit où le lieu du
+[NaN:NaN] cachemire fait etjade et celui de la
+[NaN:NaN] pierre d'attente se rejoigne. Je donc
+[NaN:NaN] déduit qu'il suffit de longer le
+[NaN:NaN] Cachemir Ferjate pour trouver la pierre
+[NaN:NaN] d'attente, la chambre cachée et son
+[NaN:NaN] objet mais ça encore plus tard où
+[NaN:NaN] puis-je les oublier ? C'est une très
+[NaN:NaN] bonne question et en effet, j'ai
+[NaN:NaN] quelques joueurs qui ont un peu
+[NaN:NaN] courtcircuité cette partie là et donc
+[NaN:NaN] qui ont fini par trouver la pierre
+[NaN:NaN] d'attente. Et je pense que c'est quand
+[NaN:NaN] même un travail bien plus pénible que
+[NaN:NaN] que de tout simplement avoir la
+[NaN:NaN] confirmation par
+[NaN:NaN] l'autre décryptage et d'ailleurs le
+[NaN:NaN] décryptage vous permet d'être 100 % sûr
+[NaN:NaN] d'avoir la bonne pierre d'attente parce
+[NaN:NaN] que j'ai d'autres joueurs aussi qui
+[NaN:NaN] peuvent faire ce court circuitage et ne
+[NaN:NaN] pas tomber sur la bonne pierre
+[NaN:NaN] d'attente. Question de look dans les
+[NaN:NaN] cheminements que vous avez reçus
+[NaN:NaN] quelqu'un a-t-il identifié le lieu du
+[NaN:NaN] face- à face et la fidèle monture ?
+[NaN:NaN] Alors la fidèle monture oui. Le face- à
+[NaN:NaN] face non. Sauf erreur de ma part, j'ai
+[NaN:NaN] eu l'impression qu'il y avait une
+[NaN:NaN] incohérence dans les réponses sur FAQ.
+[NaN:NaN] J'ai l'impression que vous avez rien dit
+[NaN:NaN] que rien que Fifi et Loulou ne pouvait
+[NaN:NaN] pas avoir de natures différentes puis
+[NaN:NaN] qu'il pouvait être de plusieurs
+[NaN:NaN] natures différentes. Euh ils ont un gros
+[NaN:NaN] point commun, c'est certain. Après, ils
+[NaN:NaN] ont chacun leur spécificité
+[NaN:NaN] et ne sont pas au même endroit. Voilà.
+[NaN:NaN] Trois trinités, c'est trop. Alors, une
+[NaN:NaN] trinité est formée par trois éléments.
+[NaN:NaN] Euh, mais vous n'aurez pas 3 x 3, donc 9
+[NaN:NaN] éléments. Non, vous en aurez que trois.
+[NaN:NaN] Euh question 4, vous avez dit que nous
+[NaN:NaN] changions d'échelle à la pointe de épée
+[NaN:NaN] quand on est presque. Ça veut dire
+[NaN:NaN] qu'une fois le bon face- à faceace
+[NaN:NaN] identifié, nous devons juste trouver où
+[NaN:NaN] se situe le bout de euh notre épée. En
+[NaN:NaN] quelque sorte, oui, une fois que vous
+[NaN:NaN] êtes bon face- à face, il ne reste plus
+[NaN:NaN] qu'à localiser la zone du sépulcre.
+[NaN:NaN] Question 5. Quelqu'un vous a-t-il déjà
+[NaN:NaN] envoyé une localisation très proche du
+[NaN:NaN] pile-poil sans pour autant avoir résolu
+[NaN:NaN] toutes les énigmes ? Euh oui, tout à
+[NaN:NaN] fait. Je des personnes qui sont
+[NaN:NaN] arrivées, même très proches euh mais de
+[NaN:NaN] façon euh accidentelle. Euh question 6.
+[NaN:NaN] Une illustration peut-elle nous aider à
+[NaN:NaN] utiliser l'objet de la chambre cachée ?
+[NaN:NaN] Non. Question 7. Je vous avais dit que
+[NaN:NaN] la chasse était multidimensionnelle mais
+[NaN:NaN] en champ par moment plusieurs histoires
+[NaN:NaN] en même temps. Faut-il cependant ne
+[NaN:NaN] suivre qu'une seule voix à la fin et
+[NaN:NaN] choisir la bonne ? Oui, tout à fait.
+[NaN:NaN] Question de Bobax. Je vois passer
+[NaN:NaN] beaucoup de questions qui portent
+[NaN:NaN] exclusivement sur Inry et sur la fin. Je
+[NaN:NaN] n'ai pas l'impression qu'il y a eu de
+[NaN:NaN] fulgurance collective au point de nous
+[NaN:NaN] projeter sur la fin du jeu. Ainsi les
+[NaN:NaN] sont courts circuitables à ce point.
+[NaN:NaN] Quelques éléments du jeu présentent
+[NaN:NaN] plusieurs euh enfin propose plusieurs
+[NaN:NaN] manières de plusieurs décryptage
+[NaN:NaN] possible pour arriver aux mêmes
+[NaN:NaN] solutions. Donc à ce titre, vous n'avez
+[NaN:NaN] pas forcément toujours besoin de tout
+[NaN:NaN] résoudre pour trouver un résultat
+[NaN:NaN] important.
+[NaN:NaN] et sur au moins deux ou trois éléments
+[NaN:NaN] du jeu mais qui sont pas les finaux, qui
+[NaN:NaN] sont pas les plus importants. En effet,
+[NaN:NaN] il peut y avoir des légers court
+[NaN:NaN] circuitage. Question de Stef, pardon, il
+[NaN:NaN] y avait une deuxième question que vous
+[NaN:NaN] aviez. Inry et Fin sont-ils
+[NaN:NaN] essentiellement liés à la fin du jeu ?
+[NaN:NaN] Euh,
+[NaN:NaN] fin ? Oui, je ne peux pas répondre.
+[NaN:NaN] Question de Stef : "Cheren, si je vous
+[NaN:NaN] dis que Fifi, Rie et Loulou m'en aent
+[NaN:NaN] très proche du pile poil do continuer à
+[NaN:NaN] croire en moi et je m'excuse, je
+[NaN:NaN] pourrais pas répondre à cette question."
+[NaN:NaN] Euh, question de Step toujours. Est-ce
+[NaN:NaN] que ce texte aurait pu vous faire
+[NaN:NaN] référence ? Alors, il était une fois, un
+[NaN:NaN] tracteur de jadis abandonné au bord d'un
+[NaN:NaN] champ. Chaque matin, le vent jouait dans
+[NaN:NaN] ses roues figées comme pour lui rappeler
+[NaN:NaN] sé glorieux. Un jour, un enfant du
+[NaN:NaN] village, curieux rêveur, s'approcha en
+[NaN:NaN] grattant la terre près d'une pierre, il
+[NaN:NaN] sentit quelque chose d'étrange, un coin
+[NaN:NaN] de tissu rouge. Il creusa avec ses mains
+[NaN:NaN] et découvrit un tapis usé mais intact,
+[NaN:NaN] soigneusement enroulé sous la pierre,
+[NaN:NaN] comme s'il avait été caché là depuis des
+[NaN:NaN] années. Depuis ce jour, quand le vent
+[NaN:NaN] souffle dans le champ, le vieux tracteur
+[NaN:NaN] semble sourire car il sait que son
+[NaN:NaN] secret est en de bonnes mains. Alors,
+[NaN:NaN] est-ce que ce texte aurait pu vous faire
+[NaN:NaN] référence ? Je n'ai pas utilisé ce texte
+[NaN:NaN] comme référence dans l'élixir, mais ce
+[NaN:NaN] que ce texte raconte par son histoire me
+[NaN:NaN] parle et
+[NaN:NaN] je ne dirais pas que ça se colle
+[NaN:NaN] parfaitement au pile poil ou à la fin du
+[NaN:NaN] jeu. Donc juste ça me parle, je trouve
+[NaN:NaN] ça poétique, sympa mais pas plus.
+[NaN:NaN] Question de vitréolis, cher compte,
+[NaN:NaN] faut-il rester simple concernant l'on la
+[NaN:NaN] lieu, le calcul de énigme ? Visiblement,
+[NaN:NaN] c'est un des éléments les plus durs à
+[NaN:NaN] trouver dans le jeu. Donc non, je dirais
+[NaN:NaN] que rester simple ne suffit pas.
+[NaN:NaN] Question d'amonite. Si on relie le mal,
+[NaN:NaN] le mal jumeau et les cendres,
+[NaN:NaN] sommes-nous toujours sur une ligne
+[NaN:NaN] droite ? Oui. Question d'Esperluette.
+[NaN:NaN] Les provinces françaises citées dans le
+[NaN:NaN] testament ont-elles une importance pour
+[NaN:NaN] notre tracé ? Non. Le nom de notre
+[NaN:NaN] pèlerin serait-il un savant mélange de
+[NaN:NaN] début et de fin d'alphabet dans cet
+[NaN:NaN] ordre ? H je ne peux pas répondre à
+[NaN:NaN] cette question et je ne comprends pas
+[NaN:NaN] très bien ce que vous dites par début et
+[NaN:NaN] fin d'alphabet dans cet ordre. Voilà,
+[NaN:NaN] j'ai répondu je crois à toutes les
+[NaN:NaN] questions qui étaient posées par écrit.
+[NaN:NaN] Alors, je vois que vous avez posé pas
+[NaN:NaN] mal de questions dans le chat
+[NaN:NaN] entre-temps. Euh
+[NaN:NaN] si certains d'entre vous souhaitent
+[NaN:NaN] prendre la parole pour poser des
+[NaN:NaN] questions, ben n'hésitez pas à demander
+[NaN:NaN] la parole et je vous la donne
+[NaN:NaN] volontiers. Ah, nous avons Diogène.
+[NaN:NaN] Bonsoir Diogène et aussi. Bonsoir
+[NaN:NaN] Étienne et tout le monde.
+[NaN:NaN] Bonsoir. Euh oui.
+[NaN:NaN] Ah super. Bon euh ben je vais y aller ma
+[NaN:NaN] petite série de questions. Il y a pas
+[NaN:NaN] beaucoup hein, je vous rassure de suite.
+[NaN:NaN] Donc la première c'est comme les
+[NaN:NaN] détecteurs de métau sont proscrits sur
+[NaN:NaN] cette chasse supposons que je fasse
+[NaN:NaN] appel à l'odorat d'un chien une fois sur
+[NaN:NaN] la zone du dernier combat. L'animal
+[NaN:NaN] détecterait-il plutôt alors plutôt je ne
+[NaN:NaN] parle pas du chien de Mickey bien sûr
+[NaN:NaN] détecterit-il plutôt une odeur A de
+[NaN:NaN] soufre B de truffe C de sainteté ou D de
+[NaN:NaN] châteigne ?
+[NaN:NaN] Une odeur de sainteté ça me paraît le
+[NaN:NaN] plus lié au contact enfin à la chasse en
+[NaN:NaN] elle-même mais le souffre me parle
+[NaN:NaN] aussi. Alors ensuite, le mal de l'énigme
+[NaN:NaN] 2, pardon, le mal de l'énigme 2 euh
+[NaN:NaN] n'est pas soignable. Vous avez dit, cela
+[NaN:NaN] veut-il dire que notre combat ne débouge
+[NaN:NaN] pas sur une guérison ?
+[NaN:NaN] Hm.
+[NaN:NaN] Et
+[NaN:NaN] non. Euh alors concernant les tracés que
+[NaN:NaN] nous pouvons réaliser euh sur MyMaps ou
+[NaN:NaN] Google et cetera, pour ma part, j'ai
+[NaN:NaN] j'ai tendance à utiliser différentes
+[NaN:NaN] couleurs, mais euh je me suis posé la
+[NaN:NaN] question dernièrement. Si tous nos SC
+[NaN:NaN] sont de couleurs différentes,
+[NaN:NaN] n'aurons-nous pas nous n'aurons pas plus
+[NaN:NaN] de difficultés à ce que nous verrons en
+[NaN:NaN] prenant de la hauteur alors que si
+[NaN:NaN] c'était une couleur unique, cela nous
+[NaN:NaN] souderait plus facilement aux yeux ?
+[NaN:NaN] H je j'avoue, j'ai pas trop d'opinion
+[NaN:NaN] là-dessus. Dans tout termes, si
+[NaN:NaN] j'utilise une seule couleur, est-ce que
+[NaN:NaN] ce qui va me sauter aux yeux sera plus
+[NaN:NaN] euh euh
+[NaN:NaN] [Musique]
+[NaN:NaN] visible que si j'ai utilisé plusieurs
+[NaN:NaN] couleurs quoi ?
+[NaN:NaN] Je pense pas que c'est d'incidence. Très
+[NaN:NaN] inent.
+[NaN:NaN] D'accord. OK.
+[NaN:NaN] Euh une fois trouvé l'emplacement de la
+[NaN:NaN] pierre d'attente, quelque chose de
+[NaN:NaN] précis nous permet-il de passer d'une
+[NaN:NaN] pierre à une autre ? Euh non, pas
+[NaN:NaN] quelque chose de précis et il y aura pas
+[NaN:NaN] de vous n'allez passer de la pierre
+[NaN:NaN] d'attente à la pierre finale en ligne
+[NaN:NaN] droite.
+[NaN:NaN] D'accord. Mais par contre à un moment
+[NaN:NaN] donné du jeu, il y a quand même un
+[NaN:NaN] passage. Enfin, on passe d'une la pierre
+[NaN:NaN] d'attente à une autre pierre.
+[NaN:NaN] Et ben la pierre d'attente porte bien
+[NaN:NaN] son nom. C'est une pierre intermédiaire.
+[NaN:NaN] OK, j'aurais osé autre chose mais bon,
+[NaN:NaN] j'irai pas plus loin. À force de lire et
+[NaN:NaN] relire l'énigme 6, ma vue se trouble.
+[NaN:NaN] Mon oftalmologue m'envisage un fond de
+[NaN:NaN] l'œil. Entre parenthèses des ténèbres.
+[NaN:NaN] Pensez-vous que cela me ferait favorable
+[NaN:NaN] pour sortir justement de mes ténèbres et
+[NaN:NaN] ainsi me délivrer du mal ?
+[NaN:NaN] Un fond de l'œil. Je ne pense pas que
+[NaN:NaN] vous alliez besoin de de creuser aussi
+[NaN:NaN] bas. Même si en effet vous allez vous
+[NaN:NaN] enfoncer dans l'intérieur de la terre,
+[NaN:NaN] mais veillez à vite remonter à la
+[NaN:NaN] surface et à vous échapper. Il ne ferait
+[NaN:NaN] pas bon de d'y rester trop longtemps.
+[NaN:NaN] C'est c'est irrespirable ou quoi ?
+[NaN:NaN] Oui.
+[NaN:NaN] D'accord. L'allié précieux arrive-t-il
+[NaN:NaN] sur le lieu du combat final avant nous ?
+[NaN:NaN] H alors c'est une bonne question, ça n'a
+[NaN:NaN] pas vraiment d'incidence
+[NaN:NaN] mais vous allez vous rejoindre. Donc
+[NaN:NaN] l'allié précieux vous retrouve euh en
+[NaN:NaN] ligne droite.
+[NaN:NaN] Oui.
+[NaN:NaN] Euh le mal que nous devons affronter se
+[NaN:NaN] déplace-t-il uniquement en surface ou
+[NaN:NaN] également de façon souterraine ? Le mal
+[NaN:NaN] peut se déplacer de je réfléchis euh il
+[NaN:NaN] peut se déplacer euh
+[NaN:NaN] en surface de façon souterraine, il peut
+[NaN:NaN] même se déplacer autrement sans besoin
+[NaN:NaN] de locomotion autre.
+[NaN:NaN] D'accord.
+[NaN:NaN] Euh oui. OK. Bon, ça m'embrouille plus
+[NaN:NaN] qu'autre chose du coup.
+[NaN:NaN] Bah je
+[NaN:NaN] C'est bien mais c'est la réalité de ce
+[NaN:NaN] mal.
+[NaN:NaN] D'accord. Alors lequel de ces films
+[NaN:NaN] intéresserait le compte de Saint-Germain
+[NaN:NaN] ? A. Orgueil et présugé. B, le bûchet
+[NaN:NaN] des vanités. C le 5e élément.
+[NaN:NaN] Les trois sont quand même très
+[NaN:NaN] intéressants et valent bien le détour.
+[NaN:NaN] Donc euh, j'aurais du mal à choisir même
+[NaN:NaN] si je me place du point de vue euh du
+[NaN:NaN] compte.
+[NaN:NaN] Tout comme un train peut encacher un
+[NaN:NaN] autre, les deux gardiens du temps
+[NaN:NaN] peuvent-ils encacher deux autres ?
+[NaN:NaN] Non.
+[NaN:NaN] OK. Euh Ah ! Oh là là cette question.
+[NaN:NaN] Bon, j'y vais quand même. Euh le
+[NaN:NaN] moi-même aussi hein, quand je quand je
+[NaN:NaN] la relie, je me fais peur moi-même he
+[NaN:NaN] pour vous dire
+[NaN:NaN] l'un des rôles des lettres en rouge
+[NaN:NaN] visible du poème à savoir R U SU B e P e
+[NaN:NaN] T est-il de nous est-il de nous orienter
+[NaN:NaN] vers un palmest ?
+[NaN:NaN] Alors, attendez parce que là vous me
+[NaN:NaN] posez des colles.
+[NaN:NaN] P A L I M P E S T E. Alors h
+[NaN:NaN] non, c'est plutôt de vous inviter à
+[NaN:NaN] comprendre que le poème peut cacher des
+[NaN:NaN] éléments très importants et que le
+[NaN:NaN] compte a été euh bien avisé de vous en
+[NaN:NaN] montrer une partie mais qui ne vous
+[NaN:NaN] facite pas la tâche pour autant jusqu'au
+[NaN:NaN] bout.
+[NaN:NaN] D'accord. Et ensuite et c'est la
+[NaN:NaN] dernière en fait c'est une question que
+[NaN:NaN] vous avez zappé dans les dans celle que
+[NaN:NaN] vous venez de faire ce soir.
+[NaN:NaN] Oui, enfin il y en a eu une deux trois
+[NaN:NaN] en fait mais j'ai j'ai noté que la
+[NaN:NaN] mienne mais c'est vrai qu'il y en a eu
+[NaN:NaN] deux trois. Celle où je vous parlais
+[NaN:NaN] d'intermédiation
+[NaN:NaN] à un moment donné de la pierre
+[NaN:NaN] d'attente, il y avait juste derrière il
+[NaN:NaN] y avait un une question sur le dernier
+[NaN:NaN] cavalier. J'essaie de la retrouver.
+[NaN:NaN] Alors oui, faut que je la retrouve aussi
+[NaN:NaN] que j'ai répondu sur intermédiaation et
+[NaN:NaN] j'ai pas répondu à celle d'après. C'est
+[NaN:NaN] ça.
+[NaN:NaN] Oui, c'est ça. Parce que c'était c'était
+[NaN:NaN] un petit peu c'était un peu accollé à
+[NaN:NaN] l'autre. On voyait pas trop bien. En
+[NaN:NaN] tout cas moi-même du
+[NaN:NaN] retrouvez la moi et puis mettez-la moi
+[NaN:NaN] dans le chat et je vais la je vais la
+[NaN:NaN] prendre au passage.
+[NaN:NaN] D'accord. OK. Bon mais sinon
+[NaN:NaN] pour celles qui sont en oral, j'ai voilà
+[NaN:NaN] c'est fait. Alors si je je suis dessus
+[NaN:NaN] dans la FAQ7 la pierre d'attente un
+[NaN:NaN] usage très proche su de l'objet de la
+[NaN:NaN] chambre cachée. C'est dire que l'objet
+[NaN:NaN] amènera également après modification un
+[NaN:NaN] lieu d'intermédiation voire de
+[NaN:NaN] translation. Mais ça j'ai répondu.
+[NaN:NaN] Non non c'est celle carrément c'est
+[NaN:NaN] celle qui précède celle-là. Important
+[NaN:NaN] son intermédiation se caractise à fois
+[NaN:NaN] comme Carrefour et Catalyzer. Son
+[NaN:NaN] importance participe-telle à confirmer
+[NaN:NaN] le dernier cavalier ? Et non ça n'aide
+[NaN:NaN] pas à confirmer le dernier cavalier.
+[NaN:NaN] D'accord. Et ben écoutez, merci beaucoup
+[NaN:NaN] Étienne et puis il y a un lien, il y a
+[NaN:NaN] un lien entre la pierre d'attente et le
+[NaN:NaN] dernier cavalier. Seconde lecture en
+[NaN:NaN] effet, mais c'est ce n'est pas le lieu
+[NaN:NaN] de l'emplacement de la pierre d'attente
+[NaN:NaN] qui vous donne ce lien. C'est plutôt ce
+[NaN:NaN] que représente la pierre d'attente
+[NaN:NaN] elle-même.
+[NaN:NaN] Et du coup, c'est c'est ce qui confirme
+[NaN:NaN] que le dernier cavalier nous
+[NaN:NaN] accompagnerait
+[NaN:NaN] ou nous accompagne euh sur le euh
+[NaN:NaN] l'autre pierre. Ça je n'ai pas dit ça.
+[NaN:NaN] Là, je vous simplement un parallèle
+[NaN:NaN] entre la pierre d'attente
+[NaN:NaN] et le dernier cavalier. Pas dit, je suis
+[NaN:NaN] d'accord mais je vous le demande,
+[NaN:NaN] je vous le demande. Faites-nous plaisir.
+[NaN:NaN] Je je ne pourrais pas les vendre
+[NaN:NaN] malheureusement là-dessus.
+[NaN:NaN] Ah suite. Bon, j'ai tenté. Merci
+[NaN:NaN] beaucoup.
+[NaN:NaN] Merci beaucoup Diogène. Bonne soirée. Ah
+[NaN:NaN] ça marche. Merci Raven. Alors tac tac
+[NaN:NaN] tac. Alors, question de pas lundi. Euh,
+[NaN:NaN] une seule pierre d'attente sera
+[NaN:NaN] l'endroit qui me sera utile selon vos
+[NaN:NaN] dir euh tac tac tac. Alors, c'était sur
+[NaN:NaN] la pierre d'attente. Donc, en FAQ, je
+[NaN:NaN] vous ai demandé si la pierre d'attente
+[NaN:NaN] avait fait l'objet d'un déplacement. Va
+[NaN:NaN] me répondu que pas à votre connaissance.
+[NaN:NaN] Cependant, notre FAQ, vous n'avez pas
+[NaN:NaN] levé le fait qu'on ait supposé au regard
+[NaN:NaN] des autres FAQ, que celle-ci avait
+[NaN:NaN] finalement été déplacée. Ma question
+[NaN:NaN] aujourd'hui, la pierre d'attente
+[NaN:NaN] a-t-elle subie un déplacement qui ferait
+[NaN:NaN] qu'aujourd'hit
+[NaN:NaN] ?
+[NaN:NaN] d'origine, pas à ma connaissance, non,
+[NaN:NaN] elle n'a pas été déplacée et de toute
+[NaN:NaN] façon, tout ce que vous pourrez trouver
+[NaN:NaN] en ligne s'agissant de cette pierre
+[NaN:NaN] d'attente vous donnera le lieu exact. Et
+[NaN:NaN] la deuxième question était sur était de
+[NaN:NaN] Diogène sur alors au tout début du jeu,
+[NaN:NaN] il vous a été demandé si les trois ebook
+[NaN:NaN] étaient utiles pour résolution des vous
+[NaN:NaN] avez alors répondu qu'il ne contenait
+[NaN:NaN] pas d'indice. Or pour l'intrinosophie
+[NaN:NaN] sa fin est quasiment au mot près
+[NaN:NaN] présente textuellement dans la partie
+[NaN:NaN] fin du parchemin. Puis dans le vocal 01,
+[NaN:NaN] vous avez dit au celui-là de la sainte
+[NaN:NaN] trinosophie et avons que sur une chasse
+[NaN:NaN] qui est autour du compte, je vais vous
+[NaN:NaN] conseiller d' apprendre le plus possible
+[NaN:NaN] sur ce personnage, notamment sur ce
+[NaN:NaN] qu'il aurait pu écrire. Alors euh
+[NaN:NaN] ces trois ebook en effet ne contiennent
+[NaN:NaN] pas d'indice. Après il traite de
+[NaN:NaN] d'éléments sur le compte de
+[NaN:NaN] Saint-Germain, sur le vin, sur
+[NaN:NaN] l'histoire du vin en France qui sont
+[NaN:NaN] tout de même proche des thématiques
+[NaN:NaN] adressées par la chasse. Pour le dire
+[NaN:NaN] autrement, ce n'est pas moi qui a écrit
+[NaN:NaN] les ebooks. Donc il peut y avoir des des
+[NaN:NaN] similitudes ou des éléments qui
+[NaN:NaN] apparaissent de façon fortuite comme
+[NaN:NaN] proche de ce que vous pouvez trouver
+[NaN:NaN] dans le jeu, mais ce ne sera pas de mon
+[NaN:NaN] fait. Voilà, je reprends du coup les
+[NaN:NaN] questions qu'il y a qu'il y avait sauf
+[NaN:NaN] si quelqu'un d'autre souhaite prendre la
+[NaN:NaN] parole. Et j'en profite d'ailleurs pour
+[NaN:NaN] remercier Raven qui a tout prévu pour
+[NaN:NaN] que le montage se fasse dans les
+[NaN:NaN] meilleures conditions et que il n'y ait
+[NaN:NaN] pas de de perdition. Je reviendrai par
+[NaN:NaN] ailleurs euh dans les prochainement sur
+[NaN:NaN] les sur les questions euh euh qui ont
+[NaN:NaN] été euh perdues lors de la dernière.
+[NaN:NaN] Alors tac tac tac. Donc alors est-ce que
+[NaN:NaN] des petits malins se sont amusés à
+[NaN:NaN] tracer la Trinité dans un refuge ou
+[NaN:NaN] est-ce
+[NaN:NaN] volontairement ? Question de John 02.
+[NaN:NaN] Alors je ne peux pas répondre parce que
+[NaN:NaN] je pense que vous parlez d'un élément
+[NaN:NaN] qui pourrait se trouver sur un sur une
+[NaN:NaN] zone physique. Question d'écumir
+[NaN:NaN] avez-vous dans votre verre ? Je vous
+[NaN:NaN] rassure, rien de très rien de très
+[NaN:NaN] provocateur. Donc simplement une petite
+[NaN:NaN] tasse de tisane. Question de Vandom.
+[NaN:NaN] Donc ça c'est bon. Alors dans le
+[NaN:NaN] contexte d'élixir, est-ile de tout
+[NaN:NaN] balancer par la fenêtre ? Bon c'est bien
+[NaN:NaN] si vous êtes un peu énervé, vous avez
+[NaN:NaN] besoin d'un nouveau départ, je vous
+[NaN:NaN] conseille le fait de prendre un peu les
+[NaN:NaN] choses avec avec recul. Euh question de
+[NaN:NaN] look, tant que c'est pas vous que vous
+[NaN:NaN] balancez par la fenêtre. Quels éléments
+[NaN:NaN] de l'illustration 5 auraient pu être
+[NaN:NaN] placés à un autre endroit ? Beaucoup
+[NaN:NaN] d'éléments de l'illustration 5 auraient
+[NaN:NaN] pu être changés de place. En
+[NaN:NaN] l'occurrence, il y a très peu d'éléments
+[NaN:NaN] dansistration 5 qui avaient vraiment
+[NaN:NaN] besoin d'être à cette place- là. La
+[NaN:NaN] seule chose importante, c'est que le
+[NaN:NaN] personnage se trouve plus avancé que le
+[NaN:NaN] cheval vers le chemin du bâtiment.
+[NaN:NaN] Question de écume. Le thé sur pierre
+[NaN:NaN] image ?
+[NaN:NaN] Euh
+[NaN:NaN] euh non. Question de Élise, doit-on se
+[NaN:NaN] préoccuper de savoir comment le toxin
+[NaN:NaN] sonne ? Non plus. Question de loup.
+[NaN:NaN] Peut-on dire que vous avez été obligé de
+[NaN:NaN] rajouter su au dernier cavalier car la
+[NaN:NaN] direction à suivre à ce moment-là du jeu
+[NaN:NaN] n'était pas cohérente avec la logique du
+[NaN:NaN] jeu ? H
+[NaN:NaN] Non. Et d'ailleurs, cet élément est en
+[NaN:NaN] rouge. Donc c'est un élément qui peut
+[NaN:NaN] être un peu isolé et pris à part.
+[NaN:NaN] Question de pas lundi, l'affrontement
+[NaN:NaN] final se fait-il sur les terres de votre
+[NaN:NaN] adversaire ? Non, c'est plutôt en
+[NaN:NaN] terrain neutre. on va dire euh un
+[NaN:NaN] terrain de croisement où vous avez
+[NaN:NaN] besoin de réunir votre armée et où
+[NaN:NaN] l'adversaire va rejoindre cette armée.
+[NaN:NaN] Question de Look, plusieurs chasseurs
+[NaN:NaN] sont-ils proches des 70 % de résolution
+[NaN:NaN] ? Non. Euh, il y a quelques équipes qui
+[NaN:NaN] sont entre 60 et 70 % mais ce n'est pas
+[NaN:NaN] la majorité. La majorité est plutôt
+[NaN:NaN] entre 30 et 50. Question de pas lundi,
+[NaN:NaN] le combat peut-il naître d'un chisme ?
+[NaN:NaN] Non. Question d'Au 1. Ça dépend ce que
+[NaN:NaN] vous si parchisme vous entendez deux
+[NaN:NaN] doctrines au sein d'une religion qui se
+[NaN:NaN] sépare.
+[NaN:NaN] Non, je ne dirai pas ça. Question d'AU.
+[NaN:NaN] Quelqu'un peut-il trouver l'élixir sans
+[NaN:NaN] internet ? Ça me paraît très compliqué
+[NaN:NaN] non ? Question de look. Peut-on dire
+[NaN:NaN] qu'il faut de la force pour utiliser
+[NaN:NaN] épée ? Force et épée sont
+[NaN:NaN] indissociables. Force et épée sont deux
+[NaN:NaN] choses très différentes. Il faut une
+[NaN:NaN] force d'âme, c'est le plus important. De
+[NaN:NaN] la force physique pas tellement.
+[NaN:NaN] Question d'Au. Est-ce qu'une simple
+[NaN:NaN] carte de France devrait suffire ? Non
+[NaN:NaN] plus parce que parce que à partir d'une
+[NaN:NaN] simple carte de France, vous allez avoir
+[NaN:NaN] du mal à trouver
+[NaN:NaN] le pile poil et puis parce que sur les
+[NaN:NaN] tracés très longs, la carte de France ne
+[NaN:NaN] prend pas en compte la courbure de
+[NaN:NaN] AERNE, vous esqueriez d'avoir des
+[NaN:NaN] distorsions. Question de PAL lundi, le
+[NaN:NaN] fait d'être digne découle-t-il d'une
+[NaN:NaN] prise de conscience ? Oui, et ça découle
+[NaN:NaN] aussi
+[NaN:NaN] d'autres d'autres cheminements
+[NaN:NaN] personnels et d'autres aides
+[NaN:NaN] extérieures. Question de Kertas. Nos
+[NaN:NaN] trois navigateurs R Fifié Loulou nous
+[NaN:NaN] permettent-il de trouver une île
+[NaN:NaN] spécifique ou trois îles bien distinctes
+[NaN:NaN] ? Vous n'avez pas forcément besoin de
+[NaN:NaN] trouver des îles, donc je ne dirai pas
+[NaN:NaN] ça. La pierre sur le feu bronze-t-elle ?
+[NaN:NaN] Non. Euh non, non, elle ne bronze pas. H
+[NaN:NaN] que voit-on sur la tête du sphinx ?
+[NaN:NaN] Question de look. Est-ce utile ? n'est
+[NaN:NaN] pas utile. Question de Ayou, normalement
+[NaN:NaN] on enterre un trésor et après on fait
+[NaN:NaN] une traille à l'envers. Il faut savoir
+[NaN:NaN] plein de choses sont passées. Très
+[NaN:NaN] semble ou pas ?
+[NaN:NaN] Euh les deux sont possibles. Donc on
+[NaN:NaN] peut très bien travailler une chasse en
+[NaN:NaN] partant du spot final et en remontant en
+[NaN:NaN] construisant les énigmes à l'envers.
+[NaN:NaN] Mais l'inverse est possible.
+[NaN:NaN] C'est-à-dire que le lieu de spot peut
+[NaN:NaN] venir à mesure que l'on crée la chasse.
+[NaN:NaN] Question de pas de lundi. L'œuvre l'œil
+[NaN:NaN] s'ouvre-t-il parce que nous le
+[NaN:NaN] sollicitons ? Euh non, vous ne le
+[NaN:NaN] sollicitez pas. H question d'Evokraine.
+[NaN:NaN] Dois-je soumettre ma théorie en français
+[NaN:NaN] ? Euh si vous êtes anglophone, vous
+[NaN:NaN] pouvez la soumettre en en anglais.
+[NaN:NaN] Question de pas lundi. Dans l'indice 1,
+[NaN:NaN] vous citez la couronne du roi si vous
+[NaN:NaN] êtes anglophone, pardon, au reines de
+[NaN:NaN] Trépa. Dans une FAQ, vous dites s'il se
+[NaN:NaN] trouve qu'une relique se trouve à
+[NaN:NaN] proximité du mal jumeau. Vous admettez
+[NaN:NaN] que soit vous nous servez une des
+[NaN:NaN] reliques à trouver sur un plateau, soit
+[NaN:NaN] que c'est pour nous aider à trouver le
+[NaN:NaN] mal jumeau. Et cette relique n'a pas
+[NaN:NaN] d'importance. Euh vous savez, il y a des
+[NaN:NaN] reliques partout en France, dans le
+[NaN:NaN] monde. Donc je je j'ex j'expliciterai
+[NaN:NaN] pas davantage en effet cette
+[NaN:NaN] ce que j'ai pu dire. Question de
+[NaN:NaN] l'Alasco. Mon ordre nouveau a des
+[NaN:NaN] symboles blancs et rouges suis-je sur
+[NaN:NaN] une fausse piste. Je ne peux pas
+[NaN:NaN] répondre à cette question. Question de
+[NaN:NaN] pas lundi.
+[NaN:NaN] Donc en possession de plusieurs
+[NaN:NaN] reliques. La relique de monou, l'autre
+[NaN:NaN] trésor, la relique proche du mal jumeaux
+[NaN:NaN] puis d'autres. Y a-t-il un moyen de
+[NaN:NaN] faire un choix dans celle que je vais
+[NaN:NaN] devoir utiliser pour vaincre le mal ou
+[NaN:NaN] dois-je toutes les garder ? Euh alors,
+[NaN:NaN] je précise juste, je commence la FAQ
+[NaN:NaN] dans dans 15 minutes, donc je
+[NaN:NaN] m'arrêterai sûrement dans 10 minutes.
+[NaN:NaN] Donc n'hésitez pas à poser vos questions
+[NaN:NaN] maintenant si vous en avez encore pour
+[NaN:NaN] que j'ai j'essaie de répondre à je
+[NaN:NaN] puisse essayer de répondre à toutes
+[NaN:NaN] avant de avant de vous laisser. Et dans
+[NaN:NaN] tous les cas, je on organisera du coup
+[NaN:NaN] une nouvelle FAQ dans un mois et d'ici
+[NaN:NaN] là je je prépare un indice. Je sais pas
+[NaN:NaN] encore combien de temps ça va me
+[NaN:NaN] prendre. Donc mais dès que l'indice est
+[NaN:NaN] prêt, évidemment je je le communiquerai
+[NaN:NaN] auprès de de toute la communauté et je
+[NaN:NaN] pense qu'on relayera également sur les
+[NaN:NaN] réseaux sociaux. Alors je reprends. Donc
+[NaN:NaN] vous êtes en possession de plusieurs
+[NaN:NaN] reliques. La relique de Montou, l'autre
+[NaN:NaN] trésor, la relique proche du mal jumeau
+[NaN:NaN] puis d'autres. Y a-t-il un moyen de
+[NaN:NaN] faire un choix dans celle que je vais
+[NaN:NaN] devoir utiliser pour vaincre le mal ou
+[NaN:NaN] dois-je toutes les garder ? Alors je ne
+[NaN:NaN] précise pas de que vous avez forcément
+[NaN:NaN] besoin de reliques pour vaincre le mal.
+[NaN:NaN] Vous avez besoin de de
+[NaN:NaN] reliques sur les énigmes 2, 3 4 et
+[NaN:NaN] cetera pour trouver le mal et le mal
+[NaN:NaN] jumeau. Mais sur le mal final euh euh ce
+[NaN:NaN] n'est le terme relique en tout cas est
+[NaN:NaN] absent de l'énigme 6. Écume la relique
+[NaN:NaN] de mon tout à-elle des petites sœurs ?
+[NaN:NaN] Euh oui, tout à fait. Question de Stef,
+[NaN:NaN] si je comprends bien vos dire de ce
+[NaN:NaN] soir, le pile poids n'est pas la zone
+[NaN:NaN] finale. Non, la zone finale, ça peut
+[NaN:NaN] être une zone, je vais pas donner de de
+[NaN:NaN] distance, mais c'est une zone assez
+[NaN:NaN] large. Euh, en tout cas, ce n'est pas
+[NaN:NaN] une zone qui vous permettrait de poser
+[NaN:NaN] votre pelle à un endroit précis,
+[NaN:NaN] contrairement au pilepoil qui lui permet
+[NaN:NaN] véritablement de de savoir à quel
+[NaN:NaN] endroit au centimètres près, vous posez
+[NaN:NaN] votre pelle pour déterrer le coffre.
+[NaN:NaN] Question de Marlot, le nouvel ordre qui
+[NaN:NaN] jaillit de l'IM 5 est-il en dur ? C'est
+[NaN:NaN] une très bonne question. Et euh non, il
+[NaN:NaN] n'est pas endure. Question de Pardon, je
+[NaN:NaN] dis vos bêtises en même temps. Euh
+[NaN:NaN] l'indice laissé sur place est-il visible
+[NaN:NaN] sur Google Maps ou faut-il se déplacer ?
+[NaN:NaN] Non, il n'est pas visible sur Google
+[NaN:NaN] Maps. C'est uniquement une confirmation
+[NaN:NaN] que j'ai laissé pour les joueurs qui
+[NaN:NaN] souhaitent se déplacer et trouver le
+[NaN:NaN] pil. Si ce n'est pas non plus un indice,
+[NaN:NaN] ça paraîtra
+[NaN:NaN] ça ne paraîtra pas non plus avec la
+[NaN:NaN] force d'une évidence complète. C'est
+[NaN:NaN] c'est simplement une dernière aide de
+[NaN:NaN] précision pour pour ne pas se tromper au
+[NaN:NaN] dernier moment le plus crucial. Surtout
+[NaN:NaN] que le coffre n'est pas non plus si
+[NaN:NaN] large que ça. Donc question de Stef : la
+[NaN:NaN] couleur blanche est-elle plus proche de
+[NaN:NaN] la fin de notre quête ou est-elle autant
+[NaN:NaN] que la couleur rouge ? C'est une très
+[NaN:NaN] bonne question. Les deux couleurs sont
+[NaN:NaN] très importantes dans le jeu. Elles vont
+[NaN:NaN] parfois s'intervertir. Une couleur va
+[NaN:NaN] parfois prendre le dessus sur l'autre ou
+[NaN:NaN] ou s'inverser.
+[NaN:NaN] Mais mais les deux sont importantes au
+[NaN:NaN] de à la fin comme au début du jeu.
+[NaN:NaN] Question de Marlot dans la 10 1. Les
+[NaN:NaN] lettres rouges se trouvent uniquement
+[NaN:NaN] sur les lignes ayant un numéro entre
+[NaN:NaN] parenthèses à la fin.
+[NaN:NaN] Aurait-on pu les trouver aussi
+[NaN:NaN] uniquement sur des lignes n'ayant pas
+[NaN:NaN] ces numéros ? Oui. Question de Step
+[NaN:NaN] FAQ1. Concernant la FAQ 17, les 70
+[NaN:NaN] premières questions ont pu être
+[NaN:NaN] retrouvées ou pourriez-vous les refaire
+[NaN:NaN] en viso ? Du coup, je vais essayer de de
+[NaN:NaN] les refaire ou de les écrire, enfin de
+[NaN:NaN] de trouver une une formule pour que ce
+[NaN:NaN] soit euh publié. La question
+[NaN:NaN] d'Esperluette et de me souvenir de ce
+[NaN:NaN] que j'ai répondu lors de la FAQ. La
+[NaN:NaN] pierre d'attente peut-elle être bruyante
+[NaN:NaN] ? Euh non. Question de lo. Quand on
+[NaN:NaN] parle de dernier face- à face, soit-on
+[NaN:NaN] comprendre que les deux personnages
+[NaN:NaN] face-à face se retrouvent à quelques
+[NaN:NaN] mètres l'un de l'autre ? Oui, ils sont
+[NaN:NaN] au même endroit. Question de Julien, le
+[NaN:NaN] lieu du dernier combat a-t-il déjà été
+[NaN:NaN] cité en FAQ ? Peut-être pas du tout.
+[NaN:NaN] Celui n'existe pas dans la réalité. La
+[NaN:NaN] rumeur veut que le compte de
+[NaN:NaN] Saint-Germain l' jamais fréquenté. Donc
+[NaN:NaN] ce lieu existe bien dans la réalité,
+[NaN:NaN] mais
+[NaN:NaN] il n'a pas été découvert. Euh et une
+[NaN:NaN] fois qu'on est arrivé à ce lieu, on est
+[NaN:NaN] vraiment plus très loin. Question de
+[NaN:NaN] vitriolis, le conceptualisme a-t-elle sa
+[NaN:NaN] place dans la chasse ? Alors si c'est
+[NaN:NaN] l'étude des concepts, je vérifie pour
+[NaN:NaN] avoir la la même définition que vous. Hm
+[NaN:NaN] je honnêtement j'ai pas vraiment
+[NaN:NaN] d'opinion. Je trouve c'est intéressant
+[NaN:NaN] mais je pourrais pas vous dire si c'est
+[NaN:NaN] si cette doctrine philosophique
+[NaN:NaN] s'inscrit dans la chasse ou pas. Je je
+[NaN:NaN] me sens pas assez capé pour vous
+[NaN:NaN] répondre. Peut-on creuser vers le haut ?
+[NaN:NaN] Non. Euh qui vous a formulé la meilleure
+[NaN:NaN] question ce soir ? Alors, il y en avait
+[NaN:NaN] deux trois d'excellentes. Je sais plus
+[NaN:NaN] lesquelles. Je vous avoue, j'oublie tout
+[NaN:NaN] le temps. Mais il y en avait deux trois.
+[NaN:NaN] Je l'ai dit d'ailleurs au moment où
+[NaN:NaN] elles ontù je les ai lu qu'elles étaient
+[NaN:NaN] extrêmement bonnes. Faudrait que je les
+[NaN:NaN] retrouve. Question d'ammonite. L'eau des
+[NaN:NaN] sources propulsées par le gaz naturel.
+[NaN:NaN] En général dans ligne, je garde les deux
+[NaN:NaN] éléments où je dois en sélectionner un
+[NaN:NaN] des deux. Merci. C'est la façon dont
+[NaN:NaN] dont ça jaillit, on va dire la façon
+[NaN:NaN] technique, biologique, scientifique n'a
+[NaN:NaN] pas beaucoup d'importance.
+[NaN:NaN] Ce qui compte, c'est de savoir que ça
+[NaN:NaN] jaillit. Voilà, ça va vous donner un
+[NaN:NaN] élément de confirmation quand vous aurez
+[NaN:NaN] trouvé. Question de Diogène. Pour clore
+[NaN:NaN] ma question en SAV FAQ, vous confirmez
+[NaN:NaN] donc que les similitudes entre le texte
+[NaN:NaN] et la de la fin de la Sainte Trinosophie
+[NaN:NaN] et celui de fin du jeu sont fortite.
+[NaN:NaN] Alors, je n'ai pas dit ça. J'ai dit que
+[NaN:NaN] ce que vous avez pu trouver sur les
+[NaN:NaN] ebook peuvent avoir un lien ou pas avec
+[NaN:NaN] la chasse et que je serai enfin je
+[NaN:NaN] pourrais pas vous. En tout cas, c'est
+[NaN:NaN] deux choses qui sont bien à séparer
+[NaN:NaN] puisque ce n'est pas moi qui ai écrit
+[NaN:NaN] les Après, si vous trouvez des simitude
+[NaN:NaN] entre un texte littéraire et des bouts
+[NaN:NaN] du parchemin, ça c'est autre chose
+[NaN:NaN] puisque ça vient vraiment du parchemin.
+[NaN:NaN] Question d'écume, la Vierge donne des
+[NaN:NaN] indices sur les personnages à barbe ?
+[NaN:NaN] Euh oui, en quelque sorte oui. Question
+[NaN:NaN] d'esperluette, pu-je être dans les choux
+[NaN:NaN] au cours de mes périnations ? H oui,
+[NaN:NaN] après si vous arrivez dans un champ de
+[NaN:NaN] chou, je ne pense pas très honnêtement.
+[NaN:NaN] La question de Bobax. Résoud la chara
+[NaN:NaN] nous amène-t-il à découvrir l'une des
+[NaN:NaN] trinités ? Je ne peux pas répondre à
+[NaN:NaN] cette question. Question de Cartas,
+[NaN:NaN] merci pour votre réponse. Dernière
+[NaN:NaN] question sur ma part. Prend pareil
+[NaN:NaN] raison de lier l'illustration une et la
+[NaN:NaN] croix et la croix sur la carte de
+[NaN:NaN] l'illustration 2. H Non, question de
+[NaN:NaN] Stef. Les runes nous précisent-elles
+[NaN:NaN] à déterminer un lieu encore plus précis
+[NaN:NaN] ? Non. Concernant le lieu irrespirable
+[NaN:NaN] cité ce soir, est-ce que c'était le cas
+[NaN:NaN] le jour du testament ? Euh oui, mais on
+[NaN:NaN] va dire que l'ambiance c'est
+[NaN:NaN] considérablement tendue au moment où
+[NaN:NaN] vous allez dans ce lieu. Est-ce qu'un
+[NaN:NaN] joueur vous a déjà envoyé une photo à
+[NaN:NaN] quelques mètres hectomètres du coffre ?
+[NaN:NaN] Euh à quelques mètres non, mais dans la
+[NaN:NaN] même la même zone un peu plus large.
+[NaN:NaN] Est-ce qu'il faut cibler pour trouver le
+[NaN:NaN] bon cheval ? Est-ce qu'il faut cibler
+[NaN:NaN] pour trouver le si vous entriez par
+[NaN:NaN] cible une notion un peu militaire ? Je
+[NaN:NaN] dirais que non. Sinon, je je vois pas
+[NaN:NaN] très bien où vous voulez en venir.
+[NaN:NaN] Question de Diogène, Rablet, la Martine,
+[NaN:NaN] Victor Hugo vous ont-ils inspiré pour
+[NaN:NaN] cette chasse ? Victor Hugo, oui, mais
+[NaN:NaN] plus pour parce que c'est un de mes
+[NaN:NaN] poètes préférés. Donc il m'inspire
+[NaN:NaN] toujours. La Martine aussi, mais on va
+[NaN:NaN] dire qu'ils n'ont pas forcément de lien
+[NaN:NaN] avec les énigmes de l'élixir. Question
+[NaN:NaN] de look. Pensez-vous que les équipes de
+[NaN:NaN] joueurs les plus avancés sont vraiment
+[NaN:NaN] coup à coud les équipes ont des
+[NaN:NaN] progressions sur des points différents
+[NaN:NaN] de la chasse ? Euh les équipes ont des
+[NaN:NaN] progressions assez proche en tout cas
+[NaN:NaN] elle bloque tout au même endroit à
+[NaN:NaN] savoir la fin de l'énigme 5. Après, il
+[NaN:NaN] peut y avoir des petites disparités sur
+[NaN:NaN] ce qui a été trouvé avant
+[NaN:NaN] mais globalement les équipes les plus
+[NaN:NaN] avancées s'arrêtent au lieu familier et
+[NaN:NaN] ont déjà des bonnes pistes pourig 6 mais
+[NaN:NaN] non pas tout. Question d'ammonite. À
+[NaN:NaN] quoi sert la fin dans le testament
+[NaN:NaN] puisque le coffre est censé être
+[NaN:NaN] découvert avec la le poème ? Et bien, je
+[NaN:NaN] ne peux pas vous répondre là-dessus mais
+[NaN:NaN] la fin a toute son utilité dans le jeu.
+[NaN:NaN] Euh question de Lasco 1. Un poète
+[NaN:NaN] espagnol peut-il m'aider ? Et la réponse
+[NaN:NaN] est non. Je ne crois pas.
+[NaN:NaN] Non, ça ne me dit rien. Alors, je vais
+[NaN:NaN] prendre une dernière question si vous en
+[NaN:NaN] avez encore une. Sinon, je vais devoir
+[NaN:NaN] vous quitter pour enchaîner sur l'autre
+[NaN:NaN] FAQ. On pourrait être gay, je pense pas
+[NaN:NaN] non plus. Après, il y a des époques où
+[NaN:NaN] c'était très compliqué de savoir si un
+[NaN:NaN] po enfin de connaître les préférences
+[NaN:NaN] intimes de d'écrivain. Quand on s'est
+[NaN:NaN] réunit avec notre équipe, le bonheur
+[NaN:NaN] est-il sous nos pieds ? Je je ne sais
+[NaN:NaN] pas de quoi vous parlez, donc je ne
+[NaN:NaN] pourrais pas répondre. Merci beaucoup.
+[NaN:NaN] Merci à tous. Merci à toutes et tous.
+[NaN:NaN] pour d'être resté 2h dans cette FAQ. Je
+[NaN:NaN] vous retrouve très vite avec un indice.
+[NaN:NaN] Euh je vais essayer de travailler sur
+[NaN:NaN] les 70 réponses manquantes de la
+[NaN:NaN] dernière FAQ suite à la perte au
+[NaN:NaN] montage. Et puis bah je vous dis à au
+[NaN:NaN] mois prochain. Merci beaucoup. Bonne
+[NaN:NaN] soirée à tous et merci Raven pour euh
+[NaN:NaN] pour l'aide sur euh sur l'organisation
+[NaN:NaN] et le montage ainsi que sur la
+[NaN:NaN] modération euh du serveur. Merci
+[NaN:NaN] beaucoup. Bonne soirée. Hm.
+
